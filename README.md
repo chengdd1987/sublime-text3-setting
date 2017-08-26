@@ -1,5 +1,7 @@
 # sublime-text3-setting
 
+clone下来的目录 粘贴/覆盖到 C:\Users\(你的用户名)\AppData\Roaming\Sublime Text 3\
+
 我的sublime设置
 
 插件如下
