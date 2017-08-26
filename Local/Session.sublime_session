@@ -1,0 +1,6174 @@
+{
+	"folder_history":
+	[
+		"/E/work/football/FBUserCenter",
+		"/E/work/tech/toolsSrc/notifyTools",
+		"/E/work/tech/toolsSrc/datagen",
+		"/E/work/tech/code/server",
+		"/E/GitHub/lua-snappy",
+		"/E/GitHub/snappy",
+		"/E/work/football/FBServer",
+		"/E/GitHub/sproto",
+		"/E/work/cswz/cswzClient",
+		"/E/work/cswz/cswzServer",
+		"/E/work/sproto-master",
+		"/E/work/datagen3.6",
+		"/E/work/datagen3.6中",
+		"/E/work/datagen",
+		"/E/work/qysg/qysgServer",
+		"/E/work/titan/titanClient",
+		"/E/work/titan/titanServer",
+		"/E/work/wmd/wmdServer/trunk/3rd/lua-random",
+		"/E/work/wmd/wmdServer/.hg/store/data/trunk/3rd/lua-random",
+		"/E/work/flybird",
+		"/E/work/titan/titanClientResource",
+		"/E/DataGeneration",
+		"/E/work/cswz/cswzUserCenter",
+		"/E/work/titan/titanClient/runtime-src/proj.android/sdk",
+		"/E/work/titan/titanBeta",
+		"/E/work/titan/userCenter",
+		"/E/work/aeslua-0.2",
+		"/E/work/notifyTools",
+		"/E/work/football/FBClient",
+		"/E/work/wmd/wmdClient",
+		"/E/work/SDK/allSdkServer",
+		"/E/work/cswz/titanBeta",
+		"/E/work/cswz/newUserCenter",
+		"/E/work/cswz/cswzPortal",
+		"/E/work/cswz/cswzUserCenter/config",
+		"/E/work/qysg/sanGupUserCenter",
+		"/E/work/qysg/qysgClient",
+		"/E/tiled-master",
+		"/E/work/cswz/DataGeneration",
+		"/E/xlsx2txt-master",
+		"/E/Script",
+		"/E/huodong",
+		"/E/work/wmd/wmdServer",
+		"/E/work/cswz/cswzClient-clone",
+		"/E/work/server_base",
+		"/D/cocos2d-x-3.13/cocos",
+		"/E/work/cswz/gcloud_voice_1_1_2_133767_20161117_Cocos/dist/Cocos",
+		"/E/work/client_base",
+		"/E/work/cswz/test",
+		"/E/work/cswzClient",
+		"/E/work/cswzServer",
+		"/E/work/cswzUserCenter",
+		"/E/work/wmdServer",
+		"/E/work/fishServer",
+		"/E/work/test",
+		"/E/work/qysgServer",
+		"/E/work/map_editor",
+		"/E/work/cswzDoc/Tools/MapEditor",
+		"/E/work/wmdClient",
+		"/E/work/titanServer",
+		"/E/work/cswzDoc/项目配置文件",
+		"/E/work/exportTableMFC",
+		"/E/work/cswzDoc/Tools/222",
+		"/E/work/cswzDoc/Tools/111",
+		"/E/work/cswzServer_pv",
+		"/E/work/cswzCenterBate",
+		"/E/work/qysgClient",
+		"/E/work/cswzPortal",
+		"/E/work/cswzDoc/Tools/战斗数值模拟",
+		"/E/work/cswzDoc/Tools/元素道具合成模拟",
+		"/E/work/skynet",
+		"/E/work/itemTest",
+		"/E/work/xljServer",
+		"/E/work/xljClient",
+		"/E/work/titanClient",
+		"/E/work/userCenter",
+		"/E/work/EffectNodes-for-cocos2dx-2",
+		"/E/work/gameTest",
+		"/E/work/titanPortal",
+		"/D/Game/dont_starve",
+		"/D/Go",
+		"/E/work/processTmp/core",
+		"/E/work/灵剑侠侣 服务端源码",
+		"/E/work/processTmp",
+		"/E/work/titanBeta",
+		"/D/Game/dont_starve/data",
+		"/E/work/test-clone",
+		"/E/work/BehaviorTree",
+		"/E/work/flowerClient",
+		"/E/work/BT-Framework-master",
+		"/E/work/BehaviorTree/BT-Framework-master",
+		"/E/work/cswzDoc/项目研发工具/战斗数值模拟",
+		"/E/work/cswzFightVrtuel",
+		"/E/work/virtuel",
+		"/E/work/flowerServer"
+	],
+	"last_version": 3126,
+	"last_window_id": 562,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 186.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"aut",
+						"authCtrl"
+					],
+					[
+						"atu",
+						"authCtrl"
+					],
+					[
+						"de",
+						"define"
+					],
+					[
+						"test",
+						"testList"
+					],
+					[
+						"play",
+						"playStatus"
+					],
+					[
+						"so",
+						"scoreStr"
+					],
+					[
+						"math",
+						"matchList"
+					],
+					[
+						"ht",
+						"htmlStr"
+					],
+					[
+						"p",
+						"pwdKey"
+					],
+					[
+						"http",
+						"httpParam"
+					],
+					[
+						"obje",
+						"objectId"
+					],
+					[
+						"getObjec",
+						"getObjectId"
+					],
+					[
+						"get",
+						"getObjType"
+					],
+					[
+						"setcurr",
+						"_setCurrentSelectedItem"
+					],
+					[
+						"fun",
+						"function\tfunction"
+					],
+					[
+						"_c",
+						"_chatModel"
+					],
+					[
+						"setb",
+						"setBright"
+					],
+					[
+						"Cha",
+						"ChatModel"
+					],
+					[
+						"fin",
+						"findStrIndex"
+					],
+					[
+						"isnor",
+						"isnormal"
+					],
+					[
+						"remove",
+						"removeObject"
+					],
+					[
+						"error",
+						"errorcode"
+					],
+					[
+						"err",
+						"errorcode"
+					],
+					[
+						"tmp",
+						"tmpObject2"
+					],
+					[
+						"getObjEct",
+						"getObjectId"
+					],
+					[
+						"getobj",
+						"getObjectId"
+					],
+					[
+						"trun",
+						"turnToDir"
+					],
+					[
+						"_fin",
+						"_findWayHandle"
+					],
+					[
+						"_coll",
+						"_collectTimeHandler"
+					],
+					[
+						"getObj",
+						"getObjectId"
+					],
+					[
+						"getg",
+						"getGridCoordsPosition"
+					],
+					[
+						"Map",
+						"MapGrid"
+					],
+					[
+						"tr",
+						"transformTo"
+					],
+					[
+						"ctrl",
+						"ctrlPlayer"
+					],
+					[
+						"target",
+						"targetObject"
+					],
+					[
+						"coor",
+						"coordsY"
+					],
+					[
+						"ch",
+						"channel_id"
+					],
+					[
+						"trade",
+						"tradeCtrl"
+					],
+					[
+						"copy",
+						"copyWorldId"
+					],
+					[
+						"add",
+						"addFreeNumber"
+					],
+					[
+						"ni",
+						"nickname"
+					],
+					[
+						"str",
+						"str2"
+					],
+					[
+						"sp",
+						"split"
+					],
+					[
+						"chec",
+						"checkItemTypeInBag"
+					],
+					[
+						"pos",
+						"postData"
+					],
+					[
+						"marquee",
+						"marqueeDb"
+					],
+					[
+						"mar",
+						"marqueeDb"
+					],
+					[
+						"Copy",
+						"CopyWorldAOI"
+					],
+					[
+						"getitem",
+						"getItemByItemId"
+					],
+					[
+						"geta",
+						"getAttacker"
+					],
+					[
+						"cre",
+						"createTimer"
+					],
+					[
+						"eve",
+						"eventParam"
+					],
+					[
+						"act",
+						"actionEvent_500"
+					],
+					[
+						"Obj",
+						"ObjConst"
+					],
+					[
+						"auth",
+						"authDb"
+					],
+					[
+						"tra",
+						"targetObj"
+					],
+					[
+						"ta",
+						"tableToString"
+					],
+					[
+						"fn",
+						"function\tfunction"
+					],
+					[
+						"re",
+						"redPointcache"
+					],
+					[
+						"onRe",
+						"onReset"
+					],
+					[
+						"co",
+						"command"
+					],
+					[
+						"_",
+						"_isDistory"
+					],
+					[
+						"event",
+						"eventId"
+					],
+					[
+						"obj",
+						"obj_const"
+					],
+					[
+						"s",
+						"sqrt"
+					],
+					[
+						"st",
+						"startTime"
+					],
+					[
+						"area",
+						"areaId"
+					],
+					[
+						"O",
+						"ObjType"
+					],
+					[
+						"com",
+						"CompType"
+					],
+					[
+						"tu",
+						"tonumber"
+					],
+					[
+						"in",
+						"insert"
+					],
+					[
+						"table",
+						"tableCount"
+					],
+					[
+						"go",
+						"goodsInfo"
+					],
+					[
+						"send",
+						"sendMail"
+					],
+					[
+						"res",
+						"resOperate"
+					],
+					[
+						"CopyWorld",
+						"CopyWorldLogicBase"
+					],
+					[
+						"a",
+						"agentAddress"
+					],
+					[
+						"agent",
+						"agentAdress"
+					],
+					[
+						"mail",
+						"mailContextData"
+					],
+					[
+						"no",
+						"nowTime"
+					],
+					[
+						"rand",
+						"randKey"
+					],
+					[
+						"b",
+						"balloon"
+					],
+					[
+						"bu",
+						"buyCount"
+					],
+					[
+						"number",
+						"NumberMgrCtrl"
+					],
+					[
+						"luck",
+						"luckDrawType"
+					],
+					[
+						"Good",
+						"GoodsConfig"
+					],
+					[
+						"goo",
+						"GoodsConf"
+					],
+					[
+						"role",
+						"roleIds"
+					],
+					[
+						"cur",
+						"currentY"
+					],
+					[
+						"curre",
+						"currentY"
+					],
+					[
+						"curr",
+						"currentX"
+					],
+					[
+						"ran",
+						"randXPos"
+					],
+					[
+						"goods",
+						"goodsId"
+					],
+					[
+						"Goods",
+						"GoodsConst"
+					],
+					[
+						"numberTy",
+						"numberType"
+					],
+					[
+						"numebr",
+						"numberMsg"
+					],
+					[
+						"numeb",
+						"numberMsg"
+					],
+					[
+						"numberData",
+						"numberDataInfo"
+					],
+					[
+						"numberTyp",
+						"numberTypeConf"
+					],
+					[
+						"numberdat",
+						"numberDataConf"
+					],
+					[
+						"numberCon",
+						"numberConf"
+					],
+					[
+						"numb",
+						"numberConf"
+					],
+					[
+						"day",
+						"dayOff"
+					],
+					[
+						"rese",
+						"resetNumber"
+					],
+					[
+						"Scene",
+						"SceneLogicBase\tlocal"
+					],
+					[
+						"en",
+						"endTime"
+					],
+					[
+						"Cop",
+						"CopyWorldHallCtrl\tupvalue"
+					],
+					[
+						"skil",
+						"skillData\tparameter"
+					],
+					[
+						"tradec",
+						"tradeCtrl\tlocal"
+					],
+					[
+						"tar",
+						"tradeCtrl\tlocal"
+					],
+					[
+						"fight",
+						"fightObjB\tparameter"
+					],
+					[
+						"Fight",
+						"fightObjA\tparameter"
+					],
+					[
+						"pri",
+						"priceType\tparameter"
+					],
+					[
+						"pop",
+						"pop_front"
+					],
+					[
+						"nex",
+						"nextNode"
+					],
+					[
+						"Scne",
+						"SceneLogicBase\tupvalue"
+					],
+					[
+						"onCo",
+						"onCollectDone"
+					],
+					[
+						"_pro",
+						"_lastProcessAreaTime"
+					],
+					[
+						"fo",
+						"folderNameList\tlocal"
+					],
+					[
+						"cu",
+						"currentX"
+					],
+					[
+						"ai",
+						"aiInfoID\tfor index"
+					],
+					[
+						"_onwer",
+						"_ownerRoleId"
+					],
+					[
+						"us",
+						"useTimeCount"
+					],
+					[
+						"mon",
+						"monitorList\tupvalue"
+					],
+					[
+						"o",
+						"ovalue\tlocal"
+					],
+					[
+						"CopyW",
+						"CopyWorldInst"
+					],
+					[
+						"Skil",
+						"SkillCtrl\tupvalue"
+					],
+					[
+						"att",
+						"attr\tparameter"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Lua/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/Lua Dev/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/User/testLuaBuild.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Lua/Lua.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Lua/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Lua Dev/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/User/testLuaBuild.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Lua/Lua.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Lua Dev/Lua.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Lua Dev/Lua.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 490.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"inste",
+						"Package Control: Install Package"
+					],
+					[
+						"packagere",
+						"Package Control: Remove Package"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 725.0
+			},
+			"console":
+			{
+				"height": 160.0,
+				"history":
+				[
+					"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.Net/'+pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.NET/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/work/football/FBServer/lualib-src/lua-skynet.c",
+				"/E/work/football/FBServer/service/code_test.lua",
+				"/E/work/football/FBServer/lualib/functions.lua",
+				"/E/work/football/FBServer/logic/bag/bag_db.lua",
+				"/E/work/tech/toolsSrc/notifyTools/encode.py",
+				"/E/work/tech/toolsSrc/notifyTools/prpcrypt.py",
+				"/E/work/football/FBServer/logic/role_shop/role_shop_db.lua",
+				"/E/work/football/FBServer/logic/relation/relation_db.lua",
+				"/E/work/tech/toolsSrc/notifyTools/updateConfig.py",
+				"/E/work/tech/toolsSrc/notifyTools/ssh.py",
+				"/E/work/tech/toolsSrc/datagen/uninstall.py",
+				"/E/work/football/FBServer/logic/task/task_db.lua",
+				"/E/work/tech/toolsSrc/notifyTools/upcode.sh",
+				"/E/work/football/FBServer/lualib/logger.lua",
+				"/E/work/football/FBServer/service/debug_console.lua",
+				"/E/work/football/FBServer/service/command_base.lua",
+				"/E/work/football/FBServer/skynet-src/skynet_module.c",
+				"/E/work/football/FBServer/lualib/loader.lua",
+				"/E/work/football/FBServer/service-src/service_snlua.c",
+				"/E/work/football/FBServer/service/chat_svc.lua",
+				"/E/work/football/FBServer/logic/chat/chat_impl.lua",
+				"/E/work/football/FBServer/platform.mk",
+				"/E/work/football/FBServer/logic/role/role_class.lua",
+				"/E/work/football/FBServer/skynet-src/skynet_start.c",
+				"/E/work/football/FBServer/service/social.lua",
+				"/E/work/football/FBServer/service/fight.lua",
+				"/E/work/football/FBServer/service/dbg.lua",
+				"/E/work/football/FBServer/service/agent_luancher.lua",
+				"/E/work/football/FBServer/lualib/skynet/cluster.lua",
+				"/E/work/football/FBServer/service/clusterd.lua",
+				"/E/work/football/FBServer/service/cmaster.lua",
+				"/E/work/football/FBServer/config_port",
+				"/E/work/football/FBServer/skynet-src/malloc_hook.c",
+				"/E/work/football/FBServer/3rd/lua/loadlib.c",
+				"/E/work/football/FBServer/3rd/lua/luaconf.h",
+				"/E/work/football/FBServer/config_path",
+				"/E/work/football/FBServer/lualib/skynet/socket.lua",
+				"/E/work/football/FBServer/lualib/json.lua",
+				"/E/work/football/FBServer/lualib/skynet/db/mongo.lua",
+				"/E/work/football/FBServer/service/gamelog.lua",
+				"/E/work/football/FBServer/lualib/sharedata/corelib.lua",
+				"/E/work/football/FBServer/lualib-src/lua-socket.c",
+				"/E/work/football/FBServer/service/watchdog.lua",
+				"/E/work/football/FBServer/logic/recorder/proto_recorder.lua",
+				"/E/work/football/FBServer/service/simple_http.lua",
+				"/E/work/football/FBServer/service/agent.lua",
+				"/E/work/football/FBServer/service/log_launcher.lua",
+				"/E/work/football/FBServer/service/db.lua",
+				"/E/work/football/FBServer/service/record.lua",
+				"/E/work/football/FBServer/lualib/http/httpc.lua",
+				"/E/work/football/FBServer/Makefile",
+				"/E/work/football/FBServer/3rd/jemalloc/autogen.sh",
+				"/E/work/football/FBServer/3rd/jemalloc/configure.ac",
+				"/E/work/football/FBServer/logic/common/client_helper.lua",
+				"/E/work/football/FBServer/lualib/sproto_helper.lua",
+				"/E/work/football/FBServer/service/auth_logic_svc.lua",
+				"/E/work/football/FBServer/service/http_unit.lua",
+				"/E/work/football/FBServer/service/errorcode.lua",
+				"/E/work/tech/code/server/Makefile",
+				"/E/work/football/FBServer/service/main_db_svc.lua",
+				"/E/work/football/FBServer/service/main_db.lua",
+				"/E/work/football/FBServer/config_db",
+				"/E/work/football/FBServer/config_public",
+				"/E/work/football/FBServer/auto_deploy.sh",
+				"/E/work/football/FBServer/run.sh",
+				"/E/work/football/FBServer/service/datacenterd.lua",
+				"/E/work/football/FBServer/service/frontend.lua",
+				"/E/work/football/FBServer/skynet-src/skynet_main.c",
+				"/E/work/football/FBServer/skynet_autogen.sh",
+				"/E/work/football/FBServer/autogem.sh",
+				"/E/work/football/FBServer/logic/chat/chat_ctrl.lua",
+				"/E/work/football/FBServer/service/cslave.lua",
+				"/E/work/football/FBServer/lualib/skynet.lua",
+				"/E/work/football/FBServer/lualib-src/lua-bson.c",
+				"/E/work/football/FBServer/service/bootstrap.lua",
+				"/E/work/football/FBServer/lualib/log.lua",
+				"/E/work/football/FBServer/logic/common/res_operate.lua",
+				"/E/work/football/FBServer/service/mail_svc.lua",
+				"/E/work/football/FBServer/3rd/lpeg/lpcap.c",
+				"/E/work/football/FBServer/service/launcher.lua",
+				"/E/work/football/FBServer/service/cmemory.lua",
+				"/E/work/football/FBDoc/配置表/项目配置文件/config_check_ctrl.lua",
+				"/E/work/football/FBServer/3rd/lua/ldblib.c",
+				"/E/work/football/FBServer/logic/fight/match_const.lua",
+				"/E/work/football/FBServer/logic/mail/mail_class.lua",
+				"/E/work/football/FBServer/service/relation_svc.lua",
+				"/E/work/football/FBServer/logic/mail/mail_impl.lua",
+				"/E/work/football/FBServer/logic/relation/relation_const.lua",
+				"/E/work/football/FBServer/logic/mail/mail_const.lua",
+				"/E/work/football/FBServer/lualib/redis.lua",
+				"/E/work/football/FBServer/notifyConfig.bat",
+				"/E/work/football/FBDoc/配置表/项目配置文件/配置文件模板.xlsx",
+				"/E/work/football/FBServer/pb/mail.sproto",
+				"/E/work/football/FBServer/logic/test.lua",
+				"/E/work/football/FBServer/lualib-src/sproto/lsproto.c",
+				"/E/work/football/FBServer/3rd/lua-pbc/pbc-lua.c",
+				"/E/work/football/FBServer/pb/chat.sproto",
+				"/E/work/football/FBServer/skynet-src/skynet_timer.h",
+				"/E/work/football/FBServer/skynet-src/skynet_server.c",
+				"/E/work/football/FBServer/3rd/snappy/lua-snappy.cc",
+				"/E/work/football/FBServer/logic/number_manager/number_mgr_impl.lua",
+				"/E/work/football/FBServer/service/proto_map.lua",
+				"/E/work/football/FBServer/logic/relation/relation_impl.lua",
+				"/E/work/football/FBServer/logic/common/context.lua",
+				"/E/work/football/FBServer/logic/config/mail_str.lua",
+				"/E/work/football/FBServer/skynet-src/skynet_monitor.c",
+				"/E/work/football/FBServer/3rd/snappy/config.h",
+				"/E/work/football/FBServer/lualib/protobuf.lua",
+				"/E/work/football/FBServer/3rd/snappy/snappy_luabinding.h",
+				"/E/work/football/FBServer/3rd/snappy/snappy-stubs-internal.h",
+				"/E/work/football/FBServer/3rd/snappy/snappy-c.cc",
+				"/E/work/football/FBServer/3rd/lua-zlib/lua_zlib.c",
+				"/E/work/football/FBServer/lualib-src/pathfinder/PathFinder_luabinding.cpp",
+				"/E/work/football/FBServer/service/test_svc.lua",
+				"/E/work/football/FBServer/service/service_base.lua",
+				"/E/work/football/FBServer/3rd/lua-pbc/register.c",
+				"/E/work/football/FBServer/3rd/snappy/snappy-c.h",
+				"/E/work/football/FBServer/3rd/snappy/snappy_unittest.cc",
+				"/E/work/football/FBServer/lualib-src/sproto/sproto.c",
+				"/E/work/football/FBServer/3rd/lua-random/random.c",
+				"/E/work/football/FBServer/lualib-src/pathfinder/PathFinder_luabinding.h",
+				"/E/work/football/FBServer/lualib/game_functions.lua",
+				"/E/work/football/FBServer/3rd/lua-random/lrandom.c",
+				"/E/work/football/FBServer/3rd/snappy/Makefile",
+				"/E/work/football/FBServer/3rd/snappy/CMakeLists.txt",
+				"/E/work/football/FBServer/3rd/snappy/libsnappy.a",
+				"/E/work/football/FBServer/3rd/lpeg/makefile",
+				"/E/work/football/FBServer/3rd/snappy/framing_format.txt"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"<project>",
+					"<project>,*.lua,*.c,*.cpp,*.cc,*.h",
+					"<project>",
+					"<project>,*.lua",
+					"<project>",
+					"<project>,*.lua",
+					"<project>",
+					"E:\\work\\cswzServer",
+					"<project>",
+					"",
+					"E:\\work\\cswzServer\\3rd\\lua",
+					"E:\\work\\cswzServer\\3rd",
+					"",
+					"configDb.obj_const",
+					"",
+					"*.lua",
+					"",
+					"E:\\work\\cswzServer\\3rd\\lua-pbc",
+					"",
+					"E:\\work\\cswzServer",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"logoutTokenReset",
+					"loginTokenCheck",
+					"castLogout",
+					"fd",
+					"castLogin",
+					"responseC2S",
+					"sendS2C",
+					"sendS2CByClient",
+					"close",
+					"os.time()",
+					"clientsQueue",
+					"ClientHelper.redirect",
+					"queueEnter",
+					"likeRoleId",
+					"updateFriendGroupMsg",
+					"logservice",
+					"logger",
+					"logservice",
+					"skynet_context_push",
+					"PTYPE_SYSTEM",
+					"initFile",
+					"global log server",
+					"logger_create",
+					"logger_init",
+					"LAUNCH snlua",
+					"skynet_handle_findname",
+					"skynet_error",
+					"skynet.error",
+					"logger_create",
+					"logger_init",
+					"skynet.error",
+					"logger_init",
+					"saveShopInfo",
+					"allocBuffer",
+					"lallocBuffer",
+					"jemalloc",
+					"$2",
+					"lua_cpath",
+					"LUA_CLIB_PATH",
+					"mkdir",
+					"skynet_getenv",
+					"PLATFORM",
+					"NOUSE_JEMALLOC",
+					"SKYNET_DEFINES",
+					"NOUSE_JEMALLOC",
+					"(char*)",
+					"PLATFORMA",
+					"PLATFORM",
+					"PLATFORMA",
+					"PLATFORM",
+					"#ifdef",
+					"path",
+					"sproto_helper",
+					"lua_cpath",
+					"luaservice",
+					"cpath",
+					"try open",
+					"LUA_CPATH",
+					"LUA_CPATH_VAR",
+					"cpath",
+					"cservice",
+					"./cservice",
+					"\\",
+					"LIB_PATH",
+					"try open",
+					"try open logger failed",
+					"mkdir",
+					"LUA_CLIB_PATH",
+					"module_path",
+					"libc",
+					"lib",
+					"PLAT",
+					"lua_cpath",
+					"luaclib",
+					"module_path",
+					".so",
+					"sendDataToCenter",
+					"onlineInfoLog",
+					"Bson dictionary's key can't be number",
+					"son dictionary's key can't be number",
+					".",
+					"dictionary's",
+					"Bson dictionary",
+					"Bson dictionary's key can't be",
+					"bson_encode",
+					"loginTokenCheck",
+					"json",
+					"is down",
+					"skynet.exit()",
+					"reload",
+					"cluster.reload",
+					"reload\"",
+					"reload",
+					"cluster\"",
+					"cluster",
+					"resume",
+					"buffer =",
+					"callback",
+					"socket_pool",
+					"buffer",
+					"socket.start",
+					"main",
+					"manager",
+					"skynet.manager",
+					"socket.listen",
+					"allocBuffer",
+					"memory\"",
+					"memory.lua",
+					"lpeg",
+					"luaL_traceback",
+					"attachList",
+					"hasAttach",
+					"~= 0",
+					"RelationConst.LeaseTime",
+					"command.delEnemy",
+					"MessageInfo",
+					"onMessageCast",
+					"resizing index size from",
+					"pdecode",
+					"offset",
+					"pencode",
+					"decodeBySnappy",
+					"16",
+					"skynet_thread_time",
+					"STARTTIME",
+					"skynet.time()",
+					"uncompress",
+					"numberMsg"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"require(\"map.scene_const\")",
+					"require(\"obj.obj_const\")",
+					"configDb.vehicle_const",
+					"configDb.system_open_const",
+					"configDb.talent_const",
+					"configDb.potential_const",
+					"configDb.compose_const",
+					"configDb.shop_const",
+					"configDb.partner_const",
+					"configDb.guild_const",
+					"configDb.lotus_const",
+					"configDb.guide_const",
+					"configDb.form_const",
+					"configDb.copy_world_const",
+					"configDb.mail_const",
+					"configDb.chat_const",
+					"configDb.buy_money_const",
+					"configDb.number_mgr_const",
+					"configDb.base_build_const",
+					"\nconfigDb.base_build_const",
+					"configDb.weather_const",
+					"configDb.synth_const",
+					"configDb.autoincrid_const",
+					"configDb.auth_const",
+					"configDb.attribute_const",
+					"configDb.ai_const",
+					"configDb.activity_const",
+					"configDb.task_const",
+					"configDb.common_const",
+					"configDb.bag_const",
+					"configDb.trade_const",
+					"require(\"trade.trade_const\")\nconfigDb.trade_const",
+					"configDb.goods_const",
+					"configDb.source_const",
+					"configDb.buff_const",
+					"configDb.skill_const",
+					"",
+					"configDb.scene_const",
+					"max",
+					"min",
+					"_dataId",
+					"condition = 220001",
+					"113",
+					"111",
+					"110",
+					"109",
+					"108",
+					"107",
+					"106",
+					"105",
+					"104",
+					"102",
+					"101"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.GoSublime-main-output":
+			{
+				"height": 130.0
+			},
+			"output.exec":
+			{
+				"height": 308.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"authl",
+						"service\\auth_logic_svc.lua"
+					],
+					[
+						"wat",
+						"service\\watchdog.lua"
+					],
+					[
+						"agent.lu",
+						"service\\agent.lua"
+					],
+					[
+						"auth",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"agentmr",
+						"service\\agent_mgr.lua"
+					],
+					[
+						"gameimpl",
+						"logic\\game\\game_impl.lua"
+					],
+					[
+						"clien",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"watc",
+						"service\\watchdog.lua"
+					],
+					[
+						"context.lua",
+						"logic\\common\\context.lua"
+					],
+					[
+						"agentm",
+						"service\\agent_mgr.lua"
+					],
+					[
+						"agent",
+						"service\\agent.lua"
+					],
+					[
+						"authcl",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"gameimp",
+						"logic\\game\\game_impl.lua"
+					],
+					[
+						"client",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"skynet.lua",
+						"lualib\\skynet.lua"
+					],
+					[
+						"timeh",
+						"logic\\common\\time_help.lua"
+					],
+					[
+						"timehe",
+						"logic\\common\\time_help.lua"
+					],
+					[
+						"sprotloa",
+						"lualib\\sprotoloader.lua"
+					],
+					[
+						"serbase",
+						"service\\service_base.lua"
+					],
+					[
+						"authctrl",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"auth.lua",
+						"service\\auth.lua"
+					],
+					[
+						"gameim",
+						"logic\\game\\game_impl.lua"
+					],
+					[
+						"cli",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"watdo",
+						"service\\watchdog.lua"
+					],
+					[
+						"skynetqu",
+						"lualib\\skynet\\queue.lua"
+					],
+					[
+						"number_mgr_class",
+						"logic\\number_manager\\number_mgr_class.lua"
+					],
+					[
+						"queue",
+						"lualib\\skynet\\queue.lua"
+					],
+					[
+						"clienth",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"matchclas",
+						"logic\\match_hall\\match_hall_class.lua"
+					],
+					[
+						"fucntion",
+						"lualib\\functions.lua"
+					],
+					[
+						"codetest",
+						"service\\code_test.lua"
+					],
+					[
+						"func",
+						"lualib\\functions.lua"
+					],
+					[
+						"reldb",
+						"logic\\relation\\relation_db.lua"
+					],
+					[
+						"bagdb",
+						"logic\\bag\\bag_db.lua"
+					],
+					[
+						"fun",
+						"lualib\\functions.lua"
+					],
+					[
+						"relation_db",
+						"logic\\relation\\relation_db.lua"
+					],
+					[
+						"taskdb",
+						"logic\\task\\task_db.lua"
+					],
+					[
+						"roleshdb",
+						"logic\\role_shop\\role_shop_db.lua"
+					],
+					[
+						"confrn",
+						"config_frontend"
+					],
+					[
+						"serlog",
+						"service-src\\service_logger.c"
+					],
+					[
+						"globallog",
+						"service\\globallog.lua"
+					],
+					[
+						"logl",
+						"service\\log_launcher.lua"
+					],
+					[
+						"global",
+						"service\\globallog.lua"
+					],
+					[
+						"watchdog",
+						"service\\watchdog.lua"
+					],
+					[
+						"confif",
+						"config_frontend"
+					],
+					[
+						"conf",
+						"config_log"
+					],
+					[
+						"service_logger",
+						"service-src\\service_logger.c"
+					],
+					[
+						"configlog",
+						"config_log"
+					],
+					[
+						"frone",
+						"service\\frontend.lua"
+					],
+					[
+						"selog",
+						"service-src\\service_logger.c"
+					],
+					[
+						"glo",
+						"service\\globallog.lua"
+					],
+					[
+						"logg",
+						"lualib\\logger.lua"
+					],
+					[
+						"configfr",
+						"config_frontend"
+					],
+					[
+						"configag",
+						"config_agent"
+					],
+					[
+						"con",
+						"config_public"
+					],
+					[
+						"skyeerr",
+						"skynet-src\\skynet_error.c"
+					],
+					[
+						"logger.l",
+						"lualib\\logger.lua"
+					],
+					[
+						"skynet.c",
+						"lualib-src\\lua-skynet.c"
+					],
+					[
+						"skynetlo",
+						"skynet-src\\skynet_log.c"
+					],
+					[
+						"role_shop_db",
+						"logic\\role_shop\\role_shop_db.lua"
+					],
+					[
+						"luabs",
+						"lualib-src\\lua-bson.c"
+					],
+					[
+						"aud",
+						"auto_deploy.sh"
+					],
+					[
+						"autde",
+						"auto_deploy.sh"
+					],
+					[
+						"runs",
+						"run.sh"
+					],
+					[
+						"skynetaut",
+						"skynet_autogen.sh"
+					],
+					[
+						"auto",
+						"skynet_autogen.sh"
+					],
+					[
+						"run.sh",
+						"run.sh"
+					],
+					[
+						"configpu",
+						"config_public"
+					],
+					[
+						"configure",
+						"3rd\\jemalloc\\configure.ac"
+					],
+					[
+						"autogen",
+						"3rd\\jemalloc\\autogen.sh"
+					],
+					[
+						"pl",
+						"platform.mk"
+					],
+					[
+						"makefil",
+						"Makefile"
+					],
+					[
+						"config",
+						"config_public"
+					],
+					[
+						"make",
+						"Makefile"
+					],
+					[
+						"skynetmain",
+						"skynet-src\\skynet_main.c"
+					],
+					[
+						"configpubli",
+						"config_public"
+					],
+					[
+						"pla",
+						"platform.mk"
+					],
+					[
+						"makefile",
+						"Makefile"
+					],
+					[
+						"p",
+						"platform.mk"
+					],
+					[
+						"run",
+						"run.sh"
+					],
+					[
+						"plat",
+						"platform.mk"
+					],
+					[
+						"ser",
+						"service-src\\service_snlua.c"
+					],
+					[
+						"confpg",
+						"config_public"
+					],
+					[
+						"configpub",
+						"config_public"
+					],
+					[
+						"skyetmain",
+						"skynet-src\\skynet_main.c"
+					],
+					[
+						"sersn",
+						"service-src\\service_snlua.c"
+					],
+					[
+						"roleclas",
+						"logic\\role\\role_class.lua"
+					],
+					[
+						"platf",
+						"platform.mk"
+					],
+					[
+						"skynetm",
+						"skynet-src\\skynet_main.c"
+					],
+					[
+						"sersnlua",
+						"service-src\\service_snlua.c"
+					],
+					[
+						"hcatctrl",
+						"logic\\chat\\chat_ctrl.lua"
+					],
+					[
+						"chatimpl",
+						"logic\\chat\\chat_impl.lua"
+					],
+					[
+						"chatsvc",
+						"service\\chat_svc.lua"
+					],
+					[
+						"sproto_helper",
+						"lualib\\sproto_helper.lua"
+					],
+					[
+						"confp",
+						"config_public"
+					],
+					[
+						"skynet",
+						"lualib\\skynet.lua"
+					],
+					[
+						"skynetsn",
+						"skynet-src\\skynet_start.c"
+					],
+					[
+						"skynetstart",
+						"skynet-src\\skynet_start.c"
+					],
+					[
+						"maindb",
+						"service\\main_db_svc.lua"
+					],
+					[
+						"commbase",
+						"service\\command_base.lua"
+					],
+					[
+						"httpi",
+						"service\\http_unit.lua"
+					],
+					[
+						"skynet.lau",
+						"lualib\\skynet.lua"
+					],
+					[
+						"commandbase",
+						"service\\command_base.lua"
+					],
+					[
+						"json",
+						"lualib\\json.lua"
+					],
+					[
+						"socket.lua",
+						"lualib\\skynet\\socket.lua"
+					],
+					[
+						"luabso",
+						"lualib-src\\lua-bson.c"
+					],
+					[
+						"bson.",
+						"lualib-src\\lua-bson.c"
+					],
+					[
+						"rolesdb",
+						"logic\\role_shop\\role_shop_db.lua"
+					],
+					[
+						"mongo",
+						"lualib\\skynet\\db\\mongo.lua"
+					],
+					[
+						"re",
+						"service\\record.lua"
+					],
+					[
+						"httpc",
+						"lualib\\http\\httpc.lua"
+					],
+					[
+						"reco",
+						"service\\record.lua"
+					],
+					[
+						"httpu",
+						"service\\http_unit.lua"
+					],
+					[
+						"error",
+						"service\\errorcode.lua"
+					],
+					[
+						"authlo",
+						"service\\auth_logic_svc.lua"
+					],
+					[
+						"mak",
+						"Makefile"
+					],
+					[
+						"rec",
+						"service\\record.lua"
+					],
+					[
+						"simp",
+						"service\\simple_http.lua"
+					],
+					[
+						"protore",
+						"logic\\recorder\\proto_recorder.lua"
+					],
+					[
+						"maindbsvc",
+						"service\\main_db_svc.lua"
+					],
+					[
+						"recor",
+						"service\\record.lua"
+					],
+					[
+						"db.lua",
+						"service\\db.lua"
+					],
+					[
+						"core",
+						"lualib\\sharedata\\corelib.lua"
+					],
+					[
+						"gamel",
+						"service\\gamelog.lua"
+					],
+					[
+						"socket",
+						"lualib\\skynet\\socket.lua"
+					],
+					[
+						"configprot",
+						"config_port"
+					],
+					[
+						"db",
+						"service\\db.lua"
+					],
+					[
+						"luasocket",
+						"lualib-src\\lua-socket.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"E:\\work\\cswzServer\\cswzServer.sublime-workspace"
+					],
+					[
+						"cs cli",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"tit s",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi se",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi s",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi ser",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tit cli",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"tit se",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"cs tit",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"tit",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi cli",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"titc",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"cli",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"cscli",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"tit ser",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tits",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tit ",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tiit ser",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"cswz ser",
+						"E:\\work\\cswzServer\\cswzServer.sublime-project"
+					],
+					[
+						"cs ",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"cs sz",
+						"E:\\work\\cswzServer\\cswzServer.sublime-project"
+					],
+					[
+						"titi c",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"cs se",
+						"E:\\work\\cswzServer\\cswzServer.sublime-project"
+					],
+					[
+						"ti",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titis",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi ",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tiit",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"flo",
+						"E:\\work\\flowerServer\\flowerServer.sublime-project"
+					],
+					[
+						"cs ti",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"tiit s",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"csw",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"cs",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"csw cli",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"css",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"cswz",
+						"E:\\work\\cswzServer\\cswzServer.sublime-project"
+					]
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 490.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"read_buf"
+					]
+				],
+				"width": 604.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 298.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 620.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"create",
+						"createTimer"
+					],
+					[
+						"reconn",
+						"reconnect"
+					],
+					[
+						"send",
+						"sendRet"
+					],
+					[
+						"aut",
+						"authCtrl"
+					],
+					[
+						"atu",
+						"authCtrl"
+					],
+					[
+						"de",
+						"define"
+					],
+					[
+						"test",
+						"testList"
+					],
+					[
+						"play",
+						"playStatus"
+					],
+					[
+						"so",
+						"scoreStr"
+					],
+					[
+						"math",
+						"matchList"
+					],
+					[
+						"ht",
+						"htmlStr"
+					],
+					[
+						"p",
+						"pwdKey"
+					],
+					[
+						"http",
+						"httpParam"
+					],
+					[
+						"obje",
+						"objectId"
+					],
+					[
+						"getObjec",
+						"getObjectId"
+					],
+					[
+						"get",
+						"getObjType"
+					],
+					[
+						"setcurr",
+						"_setCurrentSelectedItem"
+					],
+					[
+						"fun",
+						"function\tfunction"
+					],
+					[
+						"_c",
+						"_chatModel"
+					],
+					[
+						"setb",
+						"setBright"
+					],
+					[
+						"Cha",
+						"ChatModel"
+					],
+					[
+						"fin",
+						"findStrIndex"
+					],
+					[
+						"isnor",
+						"isnormal"
+					],
+					[
+						"remove",
+						"removeObject"
+					],
+					[
+						"error",
+						"errorcode"
+					],
+					[
+						"err",
+						"errorcode"
+					],
+					[
+						"tmp",
+						"tmpObject2"
+					],
+					[
+						"getObjEct",
+						"getObjectId"
+					],
+					[
+						"getobj",
+						"getObjectId"
+					],
+					[
+						"trun",
+						"turnToDir"
+					],
+					[
+						"_fin",
+						"_findWayHandle"
+					],
+					[
+						"_coll",
+						"_collectTimeHandler"
+					],
+					[
+						"getObj",
+						"getObjectId"
+					],
+					[
+						"getg",
+						"getGridCoordsPosition"
+					],
+					[
+						"Map",
+						"MapGrid"
+					],
+					[
+						"tr",
+						"transformTo"
+					],
+					[
+						"ctrl",
+						"ctrlPlayer"
+					],
+					[
+						"target",
+						"targetObject"
+					],
+					[
+						"coor",
+						"coordsY"
+					],
+					[
+						"ch",
+						"channel_id"
+					],
+					[
+						"trade",
+						"tradeCtrl"
+					],
+					[
+						"copy",
+						"copyWorldId"
+					],
+					[
+						"add",
+						"addFreeNumber"
+					],
+					[
+						"ni",
+						"nickname"
+					],
+					[
+						"str",
+						"str2"
+					],
+					[
+						"sp",
+						"split"
+					],
+					[
+						"chec",
+						"checkItemTypeInBag"
+					],
+					[
+						"pos",
+						"postData"
+					],
+					[
+						"marquee",
+						"marqueeDb"
+					],
+					[
+						"mar",
+						"marqueeDb"
+					],
+					[
+						"Copy",
+						"CopyWorldAOI"
+					],
+					[
+						"getitem",
+						"getItemByItemId"
+					],
+					[
+						"geta",
+						"getAttacker"
+					],
+					[
+						"cre",
+						"createTimer"
+					],
+					[
+						"eve",
+						"eventParam"
+					],
+					[
+						"act",
+						"actionEvent_500"
+					],
+					[
+						"Obj",
+						"ObjConst"
+					],
+					[
+						"auth",
+						"authDb"
+					],
+					[
+						"tra",
+						"targetObj"
+					],
+					[
+						"ta",
+						"tableToString"
+					],
+					[
+						"fn",
+						"function\tfunction"
+					],
+					[
+						"re",
+						"redPointcache"
+					],
+					[
+						"onRe",
+						"onReset"
+					],
+					[
+						"co",
+						"command"
+					],
+					[
+						"_",
+						"_isDistory"
+					],
+					[
+						"event",
+						"eventId"
+					],
+					[
+						"obj",
+						"obj_const"
+					],
+					[
+						"s",
+						"sqrt"
+					],
+					[
+						"st",
+						"startTime"
+					],
+					[
+						"area",
+						"areaId"
+					],
+					[
+						"O",
+						"ObjType"
+					],
+					[
+						"com",
+						"CompType"
+					],
+					[
+						"tu",
+						"tonumber"
+					],
+					[
+						"in",
+						"insert"
+					],
+					[
+						"table",
+						"tableCount"
+					],
+					[
+						"go",
+						"goodsInfo"
+					],
+					[
+						"res",
+						"resOperate"
+					],
+					[
+						"CopyWorld",
+						"CopyWorldLogicBase"
+					],
+					[
+						"a",
+						"agentAddress"
+					],
+					[
+						"agent",
+						"agentAdress"
+					],
+					[
+						"mail",
+						"mailContextData"
+					],
+					[
+						"no",
+						"nowTime"
+					],
+					[
+						"rand",
+						"randKey"
+					],
+					[
+						"b",
+						"balloon"
+					],
+					[
+						"bu",
+						"buyCount"
+					],
+					[
+						"number",
+						"NumberMgrCtrl"
+					],
+					[
+						"luck",
+						"luckDrawType"
+					],
+					[
+						"Good",
+						"GoodsConfig"
+					],
+					[
+						"goo",
+						"GoodsConf"
+					],
+					[
+						"role",
+						"roleIds"
+					],
+					[
+						"cur",
+						"currentY"
+					],
+					[
+						"curre",
+						"currentY"
+					],
+					[
+						"curr",
+						"currentX"
+					],
+					[
+						"ran",
+						"randXPos"
+					],
+					[
+						"goods",
+						"goodsId"
+					],
+					[
+						"Goods",
+						"GoodsConst"
+					],
+					[
+						"numberTy",
+						"numberType"
+					],
+					[
+						"numebr",
+						"numberMsg"
+					],
+					[
+						"numeb",
+						"numberMsg"
+					],
+					[
+						"numberData",
+						"numberDataInfo"
+					],
+					[
+						"numberTyp",
+						"numberTypeConf"
+					],
+					[
+						"numberdat",
+						"numberDataConf"
+					],
+					[
+						"numberCon",
+						"numberConf"
+					],
+					[
+						"numb",
+						"numberConf"
+					],
+					[
+						"day",
+						"dayOff"
+					],
+					[
+						"rese",
+						"resetNumber"
+					],
+					[
+						"Scene",
+						"SceneLogicBase\tlocal"
+					],
+					[
+						"en",
+						"endTime"
+					],
+					[
+						"Cop",
+						"CopyWorldHallCtrl\tupvalue"
+					],
+					[
+						"skil",
+						"skillData\tparameter"
+					],
+					[
+						"tradec",
+						"tradeCtrl\tlocal"
+					],
+					[
+						"tar",
+						"tradeCtrl\tlocal"
+					],
+					[
+						"fight",
+						"fightObjB\tparameter"
+					],
+					[
+						"Fight",
+						"fightObjA\tparameter"
+					],
+					[
+						"pri",
+						"priceType\tparameter"
+					],
+					[
+						"pop",
+						"pop_front"
+					],
+					[
+						"nex",
+						"nextNode"
+					],
+					[
+						"Scne",
+						"SceneLogicBase\tupvalue"
+					],
+					[
+						"onCo",
+						"onCollectDone"
+					],
+					[
+						"_pro",
+						"_lastProcessAreaTime"
+					],
+					[
+						"fo",
+						"folderNameList\tlocal"
+					],
+					[
+						"cu",
+						"currentX"
+					],
+					[
+						"ai",
+						"aiInfoID\tfor index"
+					],
+					[
+						"_onwer",
+						"_ownerRoleId"
+					],
+					[
+						"us",
+						"useTimeCount"
+					],
+					[
+						"mon",
+						"monitorList\tupvalue"
+					],
+					[
+						"o",
+						"ovalue\tlocal"
+					],
+					[
+						"CopyW",
+						"CopyWorldInst"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/work/football/FBServer/service/watchdog.lua",
+					"settings":
+					{
+						"buffer_size": 20748,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/service/auth.lua",
+					"settings":
+					{
+						"buffer_size": 1097,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/service/code_test.lua",
+					"settings":
+					{
+						"buffer_size": 2210,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/lualib/sproto.lua",
+					"settings":
+					{
+						"buffer_size": 5807,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/service/proto_map.lua",
+					"settings":
+					{
+						"buffer_size": 16225,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/scout/scout_class.lua",
+					"settings":
+					{
+						"buffer_size": 12173,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/auth/auth_impl.lua",
+					"settings":
+					{
+						"buffer_size": 918,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/role/role_class.lua",
+					"settings":
+					{
+						"buffer_size": 19350,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/chat/chat_const.lua",
+					"settings":
+					{
+						"buffer_size": 566,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/scout/scout_impl.lua",
+					"settings":
+					{
+						"buffer_size": 436,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Searching 1226 files for \"heartbeatInterval\"\n\nE:\\work\\football\\FBServer\\config_frontend:\n   19  maxClient = 3000\n   20  maxLogining = 50\n   21: heartbeatInterval = 300\n   22  recordPath = \"./record/\"\n   23  flushInterval = 5\n\nE:\\work\\football\\FBServer\\config_test:\n   25  svcCount = 50\n   26  clientsPerSvc = 200\n   27: heartbeatInterval = 3\n   28  sampleDataPath = \"./record/\"\n   29  sampleData = \"2051\"\n\nE:\\work\\football\\FBServer\\service\\test_svc.lua:\n   17  local loginUrl = skynet.getenv(\"loginUrl\")\t\t--登录验证服网站\n   18  local loginInterval = skynet.getenv(\"loginInterval\") --登录间隔\n   19: local heartbeatInterval = tonumber(skynet.getenv(\"heartbeatInterval\")) --心跳检查间隔\n   20  local sampleDataPath = skynet.getenv(\"sampleDataPath\")\n   21  local sampleData = skynet.getenv(\"sampleData\")  --采样样本文件序列\n   ..\n   98  \trunningClientCount = runningClientCount + 1\n   99  \tlogger.Debugf(\"start client[%s] ok, total clients[%s]\", account, runningClientCount)\n  100: \t-- client:heartbeat(heartbeatInterval)\n  101  \tclient:start(getSample())\n  102  \n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n   17  local maxClient =  tonumber(skynet.getenv(\"maxClient\"))\t--最大连接数\n   18  local maxLogining =  tonumber(skynet.getenv(\"maxLogining\"))\t--最大同时登录人数\n   19: local heartbeatInterval = tonumber(skynet.getenv(\"heartbeatInterval\")) --心跳检查间隔\n   20  local AUTH_CLIENT_HEARTBEAT_INTERVAL = 5            -- 前端设定心跳间隔\n   21  local ERROR_HEARTBEAT_CHECK_DIFF = 3             -- 允许误差倍数\n   22: local ERROR_HEARTBEAT_CHECK_COUNT = math.ceil(ERROR_HEARTBEAT_CHECK_DIFF * ((heartbeatInterval) / AUTH_CLIENT_HEARTBEAT_INTERVAL)) -- 超速的心跳记录\n   23  -- print (\"误差检测值 = \", ERROR_HEARTBEAT_CHECK_COUNT)\n   24  local recordPath = skynet.getenv(\"recordPath\") --协议记录数据文件保存文件夹\n   ..\n  409  \tlocal now = skynet.time()\n  410  \tfor _, c in pairs(clients) do\n  411: \t\tif now - c.activeTime > heartbeatInterval then\n  412          logger.Infof(\"client[0x%0x], roleId[%d] is timeout\", c.client, c.roleId or 0)\n  413  \t\t\tcommand.kick(c.client)\n  ...\n  421  \tend\n  422  \n  423: \tskynet.timeout(heartbeatInterval * 100, checkClientActive)\n  424  end\n  425  \n  ...\n  689  \tskynet.register(SERVICE.WATCHDOG)\n  690  \tcontext.sendS2S(harbor.queryname(SERVICE.AUTH), \"watch\", skynet.self())\n  691: \tif heartbeatInterval then\n  692: \t\tskynet.timeout(heartbeatInterval * 100, checkClientActive)\n  693  \tend\n  694      portalOnlineNums()\n\n12 matches across 4 files\n\n\nSearching 1226 files for \"创建新的队列消息\"\n\n0 matches\n\nSearching 1226 files for \"创建新的队列信息\"\n\nE:\\work\\football\\FBServer\\logic\\common\\client_helper.lua:\n   29  local function getQueueFunc(client)\n   30      if not ClientHelper.clientsQueue[client] then\n   31:         print (\"创建新的队列信息 = \", client, skynet.self())\n   32          ClientHelper.clientsQueue[client] = queue()\n   33      end\n\n1 match in 1 file\n\n\nSearching 1226 files for \"onMessageCast\"\n\nE:\\work\\football\\FBServer\\service\\chat_svc.lua:\n  159  \n  160  \tif msg.messageType == chatConst.MessageType.P2P then\n  161: \t\tcontext.castS2C(msg.receiverId, M_Chat.onMessageCast, msg)\n  162  \t\t-- dump(msg)\n  163  \t\t-- 若是好友 则保存记录\n  ...\n  167  \t\t-- end\n  168  \n  169: \t\tcontext.sendMultiS2C({msg.senderRoleId, msg.receiverId}, M_Chat.onMessageCast, msg)\n  170  \telse\n  171  \t\tdump(msg)\n  172: \t\tcontext.castS2C(nil, M_Chat.onMessageCast, msg)\n  173  \tend\n  174  \n  ...\n  182  \t\tmessageType = chatConst.MessageType.SYSTEM\n  183  \t}\n  184: \tcontext.castS2C(nil, M_Chat.onMessageCast, msg)\n  185  \n  186  \treturn SystemError.success\n  ...\n  193  \t\tmessageType = chatConst.MessageType.MARQUEE\n  194  \t}\n  195: \tcontext.castS2C(nil, M_Chat.onMessageCast, msg)\n  196  \n  197  \treturn SystemError.success\n\nE:\\work\\football\\FBServer\\service\\proto_map.lua:\n  181  \tdelRoleP2pMsgCache\t= {id = 0x0806, type = 1, request = \"number\", response = nil, log = 2, desc = \"清空指定好友私聊聊天记录\"},\n  182  \treadRoleP2pMsgCache\t= {id = 0x0807, type = 1, request = \"number\", response = nil, log = 2, desc = \"读取某个私聊好友的消息\"},\n  183: \tonMessageCast\t\t= {id = 0x08a1, type = 2, request = nil, response = \"chat.MessageInfo\", log = 2, desc = \"推送聊天消息\"},\n  184  \tonForbidSpeak \t\t= {id = 0x08a2, type = 2, request = nil, response = \"number\", log = 2, desc = \"推送禁言状态\"},\t--返回禁言结束时间戳\n  185  \n\n6 matches across 2 files\n\n\nSearching 1226 files for \"castSystemMsg\"\n\nE:\\work\\football\\FBServer\\logic\\match\\match_ctrl.lua:\n   12  -- 测试用\n   13  function matchCtrl.broadcastMatchInfo(param)\n   14:     context.sendS2S(SERVICE.CHAT, \"castSystemMsg\", param.msg)\n   15      -- context.sendS2S(SERVICE.CHAT, \"speakToMarquee\", param.msg)\n   16  \n\nE:\\work\\football\\FBServer\\logic\\match_live\\match_live_ctrl.lua:\n   12  -- 赛事广播\n   13  function matchLiveCtrl.broadcastMatchInfo(param)\n   14:     context.sendS2S(SERVICE.CHAT, \"castSystemMsg\", param.msg)\n   15      -- context.sendS2S(SERVICE.CHAT, \"speakToMarquee\", param.msg)\n   16  \n\nE:\\work\\football\\FBServer\\logic\\role\\role_class.lua:\n  355      if VipPrivHelper.privilege_14(self._roleBaseInfo.vipLevel) then\n  356          local str = lang.getStr(\"VIP_WELCOME_LOGIN\", self._roleBaseInfo.nickname)\n  357:         context.sendS2S(SERVICE.CHAT, \"castSystemMsg\", str)\n  358      end\n  359  \n\nE:\\work\\football\\FBServer\\service\\chat_svc.lua:\n  177  \n  178  -- 推送系统广播\n  179: function command.castSystemMsg(msgStr)\n  180  \tlocal msg = {\n  181  \t\tcontent = msgStr,\n\n4 matches across 4 files\n\n\nSearching 1226 files for \"SocketTCP._reconnect\"\n\n0 matches\n\nSearching 1226 files for \"removeAllEventListeners() - remove all listeners\"\n\n0 matches\n\nSearching 1226 files for \"cleanDisconnect\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  221      httpUnit.sendToGame(\"updateLoginLog\", postData)\n  222  \n  223:     context.callS2S(SERVICE.WATCHDOG, \"cleanDisconnect\", client)\n  224  \n  225      context.callS2S(SERVICE.WATCHDOG, \"checkKickAllRole\")\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n  413  \n  414  -- 清理断线重连缓存\n  415: function command.cleanDisconnect(client)\n  416      if not disconnectClient[client] then\n  417          return\n\n2 matches across 2 files\n\n\nSearching 1226 files for \"未登录\"\n\nE:\\work\\football\\FBServer\\service\\errorcode.lua:\n   28  \tmessageTooLong\t\t\t= add{code = 0x0009, message = \"消息包太长\"},\n   29  \tprotoNotExisits\t\t\t= add{code = 0x000a, message = \"不存在此协议\"},\n   30: \tnotLogin\t\t\t\t= add{code = 0x000b, message = \"未登录\"},\n   31  \tserviceIsStoped\t\t\t= add{code = 0x000c, message = \"服务故障\"},\n   32  \tbusy\t\t\t\t\t= add{code = 0x000d, message = \"服务忙\"},\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n  524  \t\tclientMsg.send(c.client, requestId, protoId, SystemError.notLogin)\n  525          -- dump(protoList)\n  526:         -- logger.Errorf(\"错误的协议顺序 玩家尚未登录 请求协议号为 %x\", protoId)\n  527  \t\treturn\n  528  \tend\n\n2 matches across 2 files\n\n\nSearching 1226 files for \"notLogin\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  299  \tif online == nil or online.status ~= LoginStatus.LOGINED then\n  300  \t\tlogger.Errorf(\"online status is invalid, client[%x]\", client)\n  301: \t\treturn SystemError.notLogin\n  302  \tend\n  303  \n\nE:\\work\\football\\FBServer\\service\\errorcode.lua:\n   28  \tmessageTooLong\t\t\t= add{code = 0x0009, message = \"消息包太长\"},\n   29  \tprotoNotExisits\t\t\t= add{code = 0x000a, message = \"不存在此协议\"},\n   30: \tnotLogin\t\t\t\t= add{code = 0x000b, message = \"未登录\"},\n   31  \tserviceIsStoped\t\t\t= add{code = 0x000c, message = \"服务故障\"},\n   32  \tbusy\t\t\t\t\t= add{code = 0x000d, message = \"服务忙\"},\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n  522      -- protoList[#protoList + 1] = string.format(\"%x\",protoId)\n  523  \tif not c.agent and proto.service ~= SERVICE.AUTH then\n  524: \t\tclientMsg.send(c.client, requestId, protoId, SystemError.notLogin)\n  525          -- dump(protoList)\n  526          -- logger.Errorf(\"错误的协议顺序 玩家尚未登录 请求协议号为 %x\", protoId)\n\n3 matches across 3 files\n\n\nSearching 1226 files for \"authCtrl.disconnect\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  176  \n  177  -- 用户断线\n  178: function authCtrl.disconnect(oldClient, agent)\n  179  \tlocal online = onlines[oldClient]\n  180  \tif not online or not online.roleId then\n\nE:\\work\\football\\FBServer\\service\\auth.lua:\n   28  \n   29  function command.disconnect(client)\n   30:     authCtrl.disconnect(client)\n   31  end\n   32  \n\n2 matches across 2 files\n\n\nSearching 1226 files for \"disconnect\"\n\nE:\\work\\football\\FBServer\\HISTORY.md:\n  332  -----------\n  333  * Optimize redis driver `compose_message`.\n  334: * Add module skynet.harbor for monitor harbor connect/disconnect, see test/testharborlink.lua .\n  335  * cluster.open support cluster name.\n  336  * Add new api skynet.packstring , and skynet.unpack support lua string\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n   21  local onlines = {}\n   22  local onlinesOfuid = {}\n   23: local disconnectRoleList = {}\n   24  \n   25  local logicSvcs = {}\n   ..\n  162  -- 用户断线重连\n  163  function authCtrl.reconnect(newClient, data)\n  164: \tdump(disconnectRoleList, \"请求重连 用户信息列表\")\n  165  \tlocal svc = getLogicSvc()\n  166  \tlocal ec, roleId = context.callS2S(svc, \"login\", data)\n  ...\n  168  \t\treturn ec\n  169  \tend\n  170: \tif not disconnectRoleList[roleId] then\n  171  \t\treturn ec\n  172  \tend\n  173: \tcontext.sendS2S(SERVICE.WATCHDOG, \"reconnect\", newClient, roleId, disconnectRoleList[roleId].agent)\n  174  \treturn SystemError.success\n  175  end\n  176  \n  177  -- 用户断线\n  178: function authCtrl.disconnect(oldClient, agent)\n  179  \tlocal online = onlines[oldClient]\n  180  \tif not online or not online.roleId then\n  ...\n  183  \tend\n  184  \tprint (\"用户断线 用户信息列表 roleid = \", online.roleId, oldClient)\n  185: \tdisconnectRoleList[online.roleId] = {\n  186  \t\toldClient = oldClient,\n  187  \t\tagent = agent\n  ...\n  224      httpUnit.sendToGame(\"updateLoginLog\", postData)\n  225  \n  226:     context.callS2S(SERVICE.WATCHDOG, \"cleanDisconnect\", online.roleId)\n  227  \n  228      context.callS2S(SERVICE.WATCHDOG, \"checkKickAllRole\")\n  ...\n  261  \tend\n  262  \n  263: \tif disconnectRoleList[roleId] then\n  264  \t\tauthCtrl.castLogout(client)\n  265  \tend\n\nE:\\work\\football\\FBServer\\logic\\game\\game_impl.lua:\n   20  \n   21  function gameImpl.closeSocket(roleId, client)\n   22:     context.sendS2S(SERVICE.AUTH, \"disconnect\", client)\n   23      clientHelper.clientsQueue[client] = nil\n   24      return SystemError.forward\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\socket.lua:\n  346  end\n  347  \n  348: function socket.disconnected(id)\n  349  \tlocal s = socket_pool[id]\n  350  \tif s then\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\socketchannel.lua:\n  290  local function check_connection(self)\n  291  \tif self.__sock then\n  292: \t\tif socket.disconnected(self.__sock[1]) then\n  293  \t\t\t-- closed by peer\n  294: \t\t\tskynet.error(\"socket: disconnect detected \", self.__host, self.__port)\n  295  \t\t\tclose_channel_socket(self)\n  296  \t\t\treturn\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\db\\mongo.lua:\n   42  \t\treturn \"[mongo client :\t\" .. self.host .. port_string ..\"]\"\n   43  \tend,\n   44: \t-- DO NOT need disconnect, because channel will\tshutdown during\tgc\n   45  }\n   46  \n   ..\n  186  end\n  187  \n  188: function mongo_client:disconnect()\n  189  \tif self.__sock then\n  190  \t\tlocal so = self.__sock\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\db\\mysql.lua:\n  652  \n  653  \n  654: function _M.disconnect(self)\n  655      self.sockchannel:close()\n  656      setmetatable(self, nil)\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\db\\redis.lua:\n   65  -------------------\n   66  \n   67: function command:disconnect()\n   68  \tself[1]:close()\n   69  \tsetmetatable(self, nil)\n   ..\n  263  end\n  264  \n  265: function watch:disconnect()\n  266  \tself.__sock:close()\n  267  \tsetmetatable(self, nil)\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\db\\redis\\cluster.lua:\n  173  \t\t\tlocal name,conn = next(self.connections)\n  174  \t\t\tself.connections[name] = nil\n  175: \t\t\tconn:disconnect()\n  176  \t\tend)\n  177  \tend\n  ...\n  182  \tself.connections = setmetatable({},{__mode = \"kv\"})\n  183  \tfor name,conn in pairs(connections) do\n  184: \t\tpcall(conn.disconnect,conn)\n  185  \tend\n  186  end\n  ...\n  232  \t\t\t\t\t-- to avoid waiting for the GC finalizer. File\n  233  \t\t\t\t\t-- descriptors are a rare resource.\n  234: \t\t\t\t\tconn:disconnect()\n  235  \t\t\t\tend\n  236  \t\t\telse\n  ...\n  363  \t\tend\n  364  \tend\n  365: \terror(string.format(\"Too many Cluster redirections?,maybe node is disconnected (last error: %q)\",err))\n  366  end\n  367  \n\nE:\\work\\football\\FBServer\\lualib\\snax\\gateserver.lua:\n  102  \tfunction MSG.close(fd)\n  103  \t\tif fd ~= socket then\n  104: \t\t\tif handler.disconnect then\n  105: \t\t\t\thandler.disconnect(fd)\n  106  \t\t\tend\n  107  \t\t\tclose_fd(fd)\n\nE:\\work\\football\\FBServer\\lualib\\snax\\msgserver.lua:\n   73  \tconf.request_handler(username, session, msg) : the function when recv a new request.\n   74  \tconf.register_handler(servername) : call when gate open\n   75: \tconf.disconnect_handler(username) : call when a connection disconnect (afk)\n   76  ]]\n   77  \n   ..\n  150  \tend\n  151  \n  152: \tfunction handler.disconnect(fd)\n  153  \t\thandshake[fd] = nil\n  154  \t\tlocal c = connection[fd]\n  ...\n  156  \t\t\tc.fd = nil\n  157  \t\t\tconnection[fd] = nil\n  158: \t\t\tif conf.disconnect_handler then\n  159: \t\t\t\tconf.disconnect_handler(c.username)\n  160  \t\t\tend\n  161  \t\tend\n  162  \tend\n  163  \n  164: \thandler.error = handler.disconnect\n  165  \n  166  \t-- atomic , no yield\n\nE:\\work\\football\\FBServer\\service\\auth.lua:\n   27  end\n   28  \n   29: function command.disconnect(client)\n   30:     authCtrl.disconnect(client)\n   31  end\n   32  \n\nE:\\work\\football\\FBServer\\service\\clusterd.lua:\n  104  \tc:request(request, nil, padding)\n  105  \n  106: \t-- notice: push may fail where the channel is disconnected or broken.\n  107  end\n  108  \n\nE:\\work\\football\\FBServer\\service\\cmaster.lua:\n   23  \t\t\t'C' : CONNECT slave_id slave_address\n   24  \t\t\t'N' : NAME globalname address\n   25: \t\t\t'D' : DISCONNECT slave_id\n   26  ]]\n   27  \n   ..\n  119  \t\t\tskynet.fork(monitor_slave, slave, slave_addr)\n  120  \t\telse\n  121: \t\t\tskynet.error(string.format(\"disconnect fd = %d, error = %s\", id, slave))\n  122  \t\t\tsocket.close(id)\n  123  \t\tend\n\nE:\\work\\football\\FBServer\\service\\cslave.lua:\n  101  \t\t\tend\n  102  \t\telse\n  103: \t\t\tskynet.error(\"Master disconnect\")\n  104  \t\t\tfor _, v in ipairs(monitor_master_set) do\n  105  \t\t\t\tv(true)\n\nE:\\work\\football\\FBServer\\service\\debug_console.lua:\n  110  \t\tskynet.error(stdin, err)\n  111  \tend\n  112: \tskynet.error(stdin, \"disconnected\")\n  113  \tsocket.close(stdin)\n  114  end\n\nE:\\work\\football\\FBServer\\service\\gate.lua:\n   55  end\n   56  \n   57: function handler.disconnect(fd)\n   58  \tclose_fd(fd)\n   59  \tskynet.send(watchdog, \"lua\", \"socket\", \"close\", fd)\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n   37  local loginingCount = 0\t--正在登录玩家数量\n   38  local roles = {}\t\t\t   --登录玩家信息\n   39: local disconnectRole = {}\n   40: local disconnectClient = {}\n   41  \n   42  local totalLoginCostTime = 0\n   ..\n   57  \n   58  local function getclientByRoleId(roleId)\n   59:     -- print (\"getclientByRoleId = \", roleId, roles[roleId] or (disconnectRole[roleId] and disconnectRole[roleId].client or nil))\n   60:     return disconnectRole[roleId] and disconnectRole[roleId].client or roles[roleId]\n   61  end\n   62  local function sendBuffer(client, buffer)\n   ..\n   65          return\n   66      end\n   67: \tif disconnectClient[client] or not clients[client] then\n   68          print (\"用户离线消息记录 = \", client)\n   69:         disconnectClient[client].msg[#disconnectClient[client].msg + 1] = buffer\n   70          return\n   71  \tend\n   72  \n   73  \tlocal sendRet = csend(client, buffer)\n   74:     if not sendRet or disconnectClient[client] then\n   75          print (\"用户离线消息记录 = \", client)\n   76:         disconnectClient[client].msg[#disconnectClient[client].msg + 1] = buffer\n   77      else\n   78          print (\"在线协议推送到 client = \", client)\n   ..\n  291                  else\n  292                      print (\"为什么会不存在 = \", roleId)\n  293:                     dump(disconnectRole)\n  294                      dump(roles)\n  295                  end\n  296              end\n  297          end\n  298:         for roleId, _ in pairs(disconnectRole) do\n  299              if roleId ~= exclude then\n  300                  local client = getclientByRoleId(roleId)\n  ...\n  413  \n  414  -- 清理断线重连缓存\n  415: function command.cleanDisconnect(roleId)\n  416:     if not disconnectRole[roleId] then\n  417          return\n  418      end\n  419      print (\"用户完全退出 清理消息缓存 = \", roleId)\n  420:     local client = disconnectRole[roleId].client\n  421:     disconnectClient[client] = nil\n  422:     disconnectRole[roleId] = nil\n  423  end\n  424  \n  425  -- 重连发起成功\n  426  function command.reconnect(newClient, roleId, agent)\n  427:     if not disconnectRole[roleId] then\n  428          return\n  429      end\n  430:     print (\"重连协议记录 -------------\", roleId, newClient, #disconnectRole[roleId].msg)\n  431:     local msgList = disconnectRole[roleId].msg\n  432      roles[roleId] = newClient\n  433      command.setAgent(newClient, agent, roleId)\n  434:     disconnectClient[disconnectRole[roleId].client] = nil\n  435:     disconnectRole[roleId] = nil\n  436  \n  437:     dump(disconnectRole)\n  438:     dump(disconnectClient)\n  439      for _, buffer in ipairs(msgList) do\n  440          print (\"重连协议发送 = \", newClient, buffer)\n  ...\n  447      local now = skynet.time()\n  448      local cleanClientfd\n  449:     for client, info in pairs(disconnectClient) do\n  450          if now - info.reconnectTime >= reconnectTime then\n  451              if not cleanClientfd then\n  ...\n  459      if cleanClientfd then\n  460          for client, roleId in pairs(cleanClientfd) do\n  461:             disconnectClient[client] = nil\n  462:             disconnectRole[roleId] = nil\n  463              context.sendS2S(SERVICE.AUTH, \"castLogout\", client)\n  464          end\n  ...\n  706          -- 压入\n  707          if reconnectTime and reconnectTime > 0 then\n  708:             print (\"创建消息队列缓存 = \", c.client, disconnectClient[c.client])\n  709:             if not disconnectClient[c.client] then\n  710:                 disconnectClient[c.client] = {\n  711                      msg = {},\n  712                      roleId = c.roleId,\n  ...\n  714                      reconnectTime = skynet.time()\n  715                  }\n  716:                 disconnectRole[c.roleId] = disconnectClient[c.client]\n  717              end\n  718          end\n\nE:\\work\\football\\FBServer\\service-src\\service_harbor.c:\n   10  \tA fd id: accept new harbor , we should send self_id to fd , and then send queue.\n   11  \n   12: \tIf the fd is disconnected, send message to slave in PTYPE_TEXT.  D id\n   13  \tIf we don't known a globalname, send message to slave in PTYPE_TEXT. Q name\n   14   */\n\nE:\\work\\football\\FBServer\\test\\testharborlink.lua:\n    9  \tprint(\"LOG =\", skynet.address(harbor.queryname \"LOG\"))\n   10  \tharbor.link(2)\n   11: \tprint(\"disconnected\")\n   12  end)\n   13  \n\nE:\\work\\football\\FBServer\\test\\testmysql.lua:\n  126      end\n  127  \n  128: \t--db:disconnect()\n  129  \t--skynet.exit()\n  130  end)\n\nE:\\work\\football\\FBServer\\test\\testpipeline.lua:\n   65  \tend\n   66  \n   67: \tdb:disconnect()\n   68  \tskynet.exit()\n   69  end)\n\nE:\\work\\football\\FBServer\\test\\testredis.lua:\n   62  \tend\n   63  \n   64: \tdb:disconnect()\n   65  --\tskynet.exit()\n   66  end)\n\n78 matches across 23 files\n\n\nSearching 1226 files for \"\"disconnect\"\"\n\nE:\\work\\football\\FBServer\\logic\\game\\game_impl.lua:\n   20  \n   21  function gameImpl.closeSocket(roleId, client)\n   22:     context.sendS2S(SERVICE.AUTH, \"disconnect\", client)\n   23      clientHelper.clientsQueue[client] = nil\n   24      return SystemError.forward\n\n1 match in 1 file\n\n\nSearching 1226 files for \"ServiceBase.clients\"\n\nE:\\work\\football\\FBServer\\logic\\common\\client_helper.lua:\n   37  local function recordProto(proto, request, ec, response)\n   38      do return end\n   39:     local roleId = ClientHelper.ServiceBase and ClientHelper.ServiceBase.clients[client]\n   40      local dbsvc = dbHelp.getDbSvc()\n   41      if proto.log == PROTO_LOG.ALL then\n   ..\n   83      end\n   84      if proto.log ~= PROTO_LOG.NONE then\n   85:         local roleId = ServiceBase.clients and ServiceBase.clients[client]\n   86          logger.Pf(\"the message from roleId:%s, client:%s.%s\",roleId, proto.module, proto.name)\n   87      end\n   ..\n  110      if ServiceBase.isAgent then\n  111          local rec = {}\n  112:         local ObjRole = getRoleObj(ServiceBase.clients[client])\n  113          getQueueFunc(client)(queueFunc, rec, func, ObjRole, data)\n  114          ec =  rec[1]\n  ...\n  142      end\n  143      if proto.log ~= PROTO_LOG.NONE then\n  144:         local roleId = ServiceBase.clients and ServiceBase.clients[client]\n  145          logger.Pf(\"roleId:%s, proto[%s.%s] ret = [%s] fd = [%s]\", roleId, proto.module, proto.name, errmsg(ec), client)\n  146      end\n\n6 matches in 1 file\n\n\nSearching 1226 files for \"clients\"\n\nE:\\work\\football\\FBServer\\config_test:\n   24  logminlevel = 10\n   25  svcCount = 50\n   26: clientsPerSvc = 200\n   27  heartbeatInterval = 3\n   28  sampleDataPath = \"./record/\"\n\nE:\\work\\football\\FBServer\\HISTORY.md:\n  305  * skynet.exit will quit service immediately.\n  306  * Add snax.gateserver, snax.loginserver, snax.msgserver\n  307: * Simplify clientsocket lib\n  308  * mongo driver support replica set\n  309  * config file support read from ENV\n  ...\n  318  * Bugfix: socketchannel\n  319  * cluster can throw error\n  320: * Add readline and writeline to clientsocket lib\n  321  * Add cluster.reload to reload config file\n  322  * Add datacenter.wait\n\nE:\\work\\football\\FBServer\\Makefile:\n  120  \t$(CC) $(CFLAGS) $(SHARED) -I3rd/lua-md5 $^ -o $@\n  121  \n  122: $(LUA_CLIB_PATH)/client.so : lualib-src/lua-clientsocket.c lualib-src/lua-crypt.c lualib-src/lsha1.c | $(LUA_CLIB_PATH)\n  123  \t$(CC) $(CFLAGS) $(SHARED) $^ -o $@ -lpthread\n  124  \n\nE:\\work\\football\\FBServer\\3rd\\lua\\linit.c:\n    1  /*\n    2  ** $Id: linit.c,v 1.39 2016/12/04 20:17:24 roberto Exp $\n    3: ** Initialization of libraries for lua.c and other clients\n    4  ** See Copyright Notice in lua.h\n    5  */\n\nE:\\work\\football\\FBServer\\3rd\\lua-zlib\\src\\contrib\\dotzlib\\DotZLib\\DotZLib.csproj:\n   12                  AssemblyName = \"DotZLib\"\n   13                  AssemblyOriginatorKeyFile = \"\"\n   14:                 DefaultClientScript = \"JScript\"\n   15                  DefaultHTMLPageLayout = \"Grid\"\n   16                  DefaultTargetSchema = \"IE50\"\n\nE:\\work\\football\\FBServer\\logic\\common\\client_helper.lua:\n   25  local ClientHelper = {}\n   26  \n   27: ClientHelper.clientsQueue = {}\n   28  \n   29  local function getQueueFunc(client)\n   30:     if not ClientHelper.clientsQueue[client] then\n   31:         ClientHelper.clientsQueue[client] = queue()\n   32      end\n   33:     return ClientHelper.clientsQueue[client]\n   34  end\n   35  \n   ..\n   37  local function recordProto(proto, request, ec, response)\n   38      do return end\n   39:     local roleId = ClientHelper.ServiceBase and ClientHelper.ServiceBase.clients[client]\n   40      local dbsvc = dbHelp.getDbSvc()\n   41      if proto.log == PROTO_LOG.ALL then\n   ..\n   83      end\n   84      if proto.log ~= PROTO_LOG.NONE then\n   85:         local roleId = ServiceBase.clients and ServiceBase.clients[client]\n   86          logger.Pf(\"the message from roleId:%s, client:%s.%s\",roleId, proto.module, proto.name)\n   87      end\n   ..\n  110      if ServiceBase.isAgent then\n  111          local rec = {}\n  112:         local ObjRole = getRoleObj(ServiceBase.clients[client])\n  113          getQueueFunc(client)(queueFunc, rec, func, ObjRole, data)\n  114          ec =  rec[1]\n  ...\n  142      end\n  143      if proto.log ~= PROTO_LOG.NONE then\n  144:         local roleId = ServiceBase.clients and ServiceBase.clients[client]\n  145          logger.Pf(\"roleId:%s, proto[%s.%s] ret = [%s] fd = [%s]\", roleId, proto.module, proto.name, errmsg(ec), client)\n  146      end\n\nE:\\work\\football\\FBServer\\logic\\config\\login_maskname.lua:\n 7348      [\"click.hopeun.com\"] = {maskWord = [[click.hopeun.com]],},\n 7349      [\"client.trackups.org\"] = {maskWord = [[client.trackups.org]],},\n 7350:     [\"client.upsclients.net\"] = {maskWord = [[client.upsclients.net]],},\n 7351      [\"clipan.net\"] = {maskWord = [[clipan.net]],},\n 7352      [\"clocks.net.au\"] = {maskWord = [[clocks.net.au]],},\n\nE:\\work\\football\\FBServer\\logic\\game\\game_impl.lua:\n   21  function gameImpl.closeSocket(roleId, client)\n   22      context.sendS2S(SERVICE.AUTH, \"disconnect\", client, skynet.self())\n   23:     clientHelper.clientsQueue[client] = nil\n   24      return SystemError.forward\n   25  end\n\nE:\\work\\football\\FBServer\\logic\\role_shop\\role_shop_class.lua:\n  121  end\n  122  \n  123: function RoleShopClass:getClientShopInfo(shopType)\n  124  \tif not self._shopDatas[shopType] then\n  125  \t\treturn SystemError.argument\n  ...\n  133  \t\t}\n  134  \tend\n  135: \t-- dump(resultList, \"getClientShopInfo\")\n  136  \treturn SystemError.success, {saleGoods = resultList}\n  137  end\n\nE:\\work\\football\\FBServer\\logic\\role_shop\\role_shop_impl.lua:\n    6  \n    7  function RoleShopImpl.getShopInfo(ObjRole, data)\n    8: \treturn getRoleShopObj(ObjRole):getClientShopInfo(data)\n    9  end\n   10  \n\nE:\\work\\football\\FBServer\\service\\agent.lua:\n   26  ]]\n   27  agent.roles = {}\n   28: agent.clients = {}\n   29  \n   30  -- local loginCallbacks = {}\n   ..\n   99  \t}\n  100  \tagent.roles[roleId] = role\n  101: \tagent.clients[client] = roleId\n  102  \trole.RoleObj:onLogin(isCreateLogin)\n  103  \n  ...\n  116  \tlocal role = agent.roles[roleId]\n  117  \trole.RoleObj:onLogout()\n  118: \tagent.clients[role.client] = nil\n  119  \tagent.roles[roleId] = nil\n  120  \troleCount = roleCount - 1\n\nE:\\work\\football\\FBServer\\service\\agent_mgr.lua:\n    7  \n    8  local agents = {}\n    9: local clientsByRoleId = {}\n   10: local logoutingClients = {}\n   11  local agentRoleCount = tonumber(skynet.getenv(\"agentRoleCount\"))\n   12  print(\"agentRoleCount:\", agentRoleCount)\n   ..\n  105  function command.login(roleId, client, requestId, uid, pid, isCreateLogin)\n  106      local agent = initAgent(roleId, client, requestId, uid, pid, isCreateLogin)\n  107:     if logoutingClients[client] then\n  108:         logoutingClients[client] = nil\n  109          context.callS2S(agent.svc, \"logout\", roleId)\n  110          -- skynet.kill(agent)\n  ...\n  114      end\n  115      agents[client] = agent\n  116:     clientsByRoleId[roleId] = client\n  117      local roleCreateTime = context.callS2S(agent.svc, \"getRoleCreateTime\", roleId)\n  118      -- print (\"角色创建时间 = \", roleCreateTime)\n  ...\n  128          -- skynet.kill(agent)\n  129          agents[client] = nil\n  130:         clientsByRoleId[roleId] = nil\n  131          agent.roleCount = agent.roleCount - 1\n  132      else\n  133:         logoutingClients[client] = roleId\n  134      end\n  135      -- dump(agentPool, \"logout agentPool\")\n  ...\n  139  \tlocal states = {}\n  140  \tfor _, roleId in pairs(roleIds) do\n  141: \t\tstates[roleId] = clientsByRoleId[roleId] ~= nil\n  142  \tend\n  143  \treturn states\n  ...\n  145  \n  146  function command.getAddressOfRole(roleId)\n  147: \tlocal client = clientsByRoleId[roleId]\n  148  \tif client then\n  149  \t\treturn agents[client].svc\n\nE:\\work\\football\\FBServer\\service\\test_svc.lua:\n   13  \n   14  local svcCount = tonumber(skynet.getenv(\"svcCount\"))\n   15: local clientsPerSvc = tonumber(skynet.getenv(\"clientsPerSvc\")) --启动客户端数量\n   16  local loginHost = skynet.getenv(\"loginHost\")\t\t\t--登录验证服地址\n   17  local loginUrl = skynet.getenv(\"loginUrl\")\t\t--登录验证服网站\n   ..\n   26  local password = skynet.getenv(\"password\")\n   27  \n   28: local clients = {}\n   29  local runningClientCount = 0\n   30  local samples = {}\n   ..\n   40  \n   41  local function completedCallback(client, completed)\n   42: \tif clients[client:getAccount()] then\n   43  \t\trunningClientCount = runningClientCount - 1\n   44: \t\tclients[client:getAccount()] = nil\n   45  \tend\n   46  end\n   ..\n   82  \n   83  startClient = function()\n   84: \tif runningClientCount >= clientsPerSvc then\n   85: \t\tlogger.Debugf(\"reached max clients[%d]\", runningClientCount)\n   86  \t\tskynet.timeout(loginInterval * 100, function() startClient() end)\n   87  \t\treturn\n   ..\n   95  \tend\n   96  \n   97: \tclients[account] = client\n   98  \trunningClientCount = runningClientCount + 1\n   99: \tlogger.Debugf(\"start client[%s] ok, total clients[%s]\", account, runningClientCount)\n  100  \t-- client:heartbeat(heartbeatInterval)\n  101  \tclient:start(getSample())\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n   33  \n   34  local clientCount = 0\t\t--当前客户端连接数\n   35: local clients = {}\t\t\t--客户端连接信息{fd, client, ip, agent, waitting}\n   36  local waittings = {}\t\t--正在等待登录的玩家信息\n   37  local loginingCount = 0\t--正在登录玩家数量\n   ..\n   65          return\n   66      end\n   67: \tif disconnectClient[client] or not clients[client] then\n   68          print (\"用户离线消息记录 = \", client)\n   69          disconnectClient[client].msg[#disconnectClient[client].msg + 1] = buffer\n   ..\n  125  function command.login(roleId, client)\n  126      roles[roleId] = client\n  127:     local c = clients[client]\n  128      if c then\n  129          if c.isLogining then\n  ...\n  139  \n  140  function command.loginFailure(client)\n  141: \tlocal c = clients[client]\n  142  \tif c and c.isLogining then\n  143  \t\tc.isLogining = nil\n  ...\n  165  function command.setAgent(client, agent, roleId)\n  166      local fd = client\n  167:     local c = clients[fd]\n  168      if c then\n  169          c.agent = agent\n  ...\n  313  end\n  314  \n  315: function command.sendMultiByClients(clients, buffer)\n  316: \tfor _, client in pairs(clients) do\n  317  \t  command.sendS2CByClient(client, buffer)\n  318  \tend\n  ...\n  322  \tlocal client = getclientByRoleId(roleId)\n  323  \tif client then\n  324:         -- if clients[client] then\n  325  \t\t  command.sendS2CByClient(client, buffer)\n  326          -- end\n  ...\n  332  \t\tlocal client = getclientByRoleId(roleId)\n  333  \t\tif client then\n  334:             -- if clients[client] then\n  335                  command.sendS2CByClient(client, buffer)\n  336              -- end\n  ...\n  350  ]]\n  351  function command.kick(client)\n  352:     if not clients[client] then\n  353          return false\n  354      end\n  ...\n  489  local function checkClientActive()\n  490  \tlocal now = skynet.time()\n  491: \tfor _, c in pairs(clients) do\n  492  \t\tif now - c.activeTime > heartbeatInterval then\n  493          logger.Infof(\"client[0x%0x], roleId[%d] is timeout\", c.client, c.roleId or 0)\n  ...\n  640          waringHeartBeatCount = 0,\n  641  \t}\n  642: \tclients[fd] = c\n  643  \tclientCount = clientCount + 1\n  644  \tsocketdriver.start(fd)\n  ...\n  652  ]]\n  653  function socketMsg.data(fd, msg, sz)\n  654: \tlocal c = clients[fd]\n  655  \tif not c then\n  656  \t\treturn\n  ...\n  680  ]]\n  681  close = function (fd)\n  682:     local c = clients[fd]\n  683      if not c then\n  684          return\n  ...\n  700      end\n  701  \n  702:     clients[fd] = nil\n  703      clientCount = clientCount - 1\n  704  \n\n59 matches across 14 files\n\n\nSearching 1226 files for \"clients = \"\n\nE:\\work\\football\\FBServer\\service\\agent.lua:\n   26  ]]\n   27  agent.roles = {}\n   28: agent.clients = {}\n   29  \n   30  -- local loginCallbacks = {}\n\nE:\\work\\football\\FBServer\\service\\agent_mgr.lua:\n    8  local agents = {}\n    9  local clientsByRoleId = {}\n   10: local logoutingClients = {}\n   11  local agentRoleCount = tonumber(skynet.getenv(\"agentRoleCount\"))\n   12  print(\"agentRoleCount:\", agentRoleCount)\n\nE:\\work\\football\\FBServer\\service\\test_svc.lua:\n   26  local password = skynet.getenv(\"password\")\n   27  \n   28: local clients = {}\n   29  local runningClientCount = 0\n   30  local samples = {}\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n   33  \n   34  local clientCount = 0\t\t--当前客户端连接数\n   35: local clients = {}\t\t\t--客户端连接信息{fd, client, ip, agent, waitting}\n   36  local waittings = {}\t\t--正在等待登录的玩家信息\n   37  local loginingCount = 0\t--正在登录玩家数量\n\n4 matches across 4 files\n\n\nSearching 1226 files for \"创建消息队列缓存\"\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n  707          -- 压入\n  708          if reconnectTime and reconnectTime > 0 then\n  709:             print (\"创建消息队列缓存 = \", c.client, disconnectClient[c.client])\n  710              if not disconnectClient[c.client] then\n  711                  disconnectClient[c.client] = {\n\n1 match in 1 file\n\n\nSearching 1226 files for \"M_Game.closeSocket\"\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n  718              end\n  719          end\n  720:         skynet.call(c.agent, \"lua\", \"redirect\", c.client, packBuff(32767 - 1, M_Game.closeSocket, c.client))\n  721  \n  722      else\n\n1 match in 1 file\n\n\nSearching 1226 files for \"disconnect\"\n\nE:\\work\\football\\FBServer\\HISTORY.md:\n  332  -----------\n  333  * Optimize redis driver `compose_message`.\n  334: * Add module skynet.harbor for monitor harbor connect/disconnect, see test/testharborlink.lua .\n  335  * cluster.open support cluster name.\n  336  * Add new api skynet.packstring , and skynet.unpack support lua string\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n   21  local onlines = {}\n   22  local onlinesOfuid = {}\n   23: local disconnectRoleList = {}\n   24  \n   25  local logicSvcs = {}\n   ..\n  162  -- 用户断线重连\n  163  function authCtrl.reconnect(newClient, data)\n  164: \tdump(disconnectRoleList, \"请求重连 用户信息列表\")\n  165  \tlocal svc = getLogicSvc()\n  166  \tlocal ec, roleId = context.callS2S(svc, \"login\", data)\n  ...\n  168  \t\treturn ec\n  169  \tend\n  170: \tif not disconnectRoleList[roleId] then\n  171  \t\treturn ec\n  172  \tend\n  173: \tcontext.callS2S(disconnectRoleList[roleId].agent, \"reConnect\", roleId, newClient)\n  174: \tcontext.sendS2S(SERVICE.WATCHDOG, \"reconnect\", newClient, roleId, disconnectRoleList[roleId].agent)\n  175  \treturn SystemError.success\n  176  end\n  177  \n  178  -- 用户断线\n  179: function authCtrl.disconnect(oldClient, agent)\n  180  \tlocal online = onlines[oldClient]\n  181  \tif not online or not online.roleId then\n  ...\n  184  \tend\n  185  \tprint (\"用户断线 用户信息列表 roleid = \", online.roleId, oldClient, agent)\n  186: \tdisconnectRoleList[online.roleId] = {\n  187  \t\toldClient = oldClient,\n  188  \t\tagent = agent\n  ...\n  225      httpUnit.sendToGame(\"updateLoginLog\", postData)\n  226  \n  227:     context.callS2S(SERVICE.WATCHDOG, \"cleanDisconnect\", online.roleId)\n  228  \n  229      context.callS2S(SERVICE.WATCHDOG, \"checkKickAllRole\")\n  ...\n  262  \tend\n  263  \n  264: \tif disconnectRoleList[roleId] then\n  265  \t\tauthCtrl.castLogout(client)\n  266  \tend\n\nE:\\work\\football\\FBServer\\logic\\game\\game_impl.lua:\n   20  \n   21  function gameImpl.closeSocket(client)\n   22:     context.sendS2S(SERVICE.AUTH, \"disconnect\", client, skynet.self())\n   23      -- clientHelper.clientsQueue[client] = nil\n   24      return SystemError.forward\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\socket.lua:\n  346  end\n  347  \n  348: function socket.disconnected(id)\n  349  \tlocal s = socket_pool[id]\n  350  \tif s then\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\socketchannel.lua:\n  290  local function check_connection(self)\n  291  \tif self.__sock then\n  292: \t\tif socket.disconnected(self.__sock[1]) then\n  293  \t\t\t-- closed by peer\n  294: \t\t\tskynet.error(\"socket: disconnect detected \", self.__host, self.__port)\n  295  \t\t\tclose_channel_socket(self)\n  296  \t\t\treturn\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\db\\mongo.lua:\n   42  \t\treturn \"[mongo client :\t\" .. self.host .. port_string ..\"]\"\n   43  \tend,\n   44: \t-- DO NOT need disconnect, because channel will\tshutdown during\tgc\n   45  }\n   46  \n   ..\n  186  end\n  187  \n  188: function mongo_client:disconnect()\n  189  \tif self.__sock then\n  190  \t\tlocal so = self.__sock\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\db\\mysql.lua:\n  652  \n  653  \n  654: function _M.disconnect(self)\n  655      self.sockchannel:close()\n  656      setmetatable(self, nil)\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\db\\redis.lua:\n   65  -------------------\n   66  \n   67: function command:disconnect()\n   68  \tself[1]:close()\n   69  \tsetmetatable(self, nil)\n   ..\n  263  end\n  264  \n  265: function watch:disconnect()\n  266  \tself.__sock:close()\n  267  \tsetmetatable(self, nil)\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\db\\redis\\cluster.lua:\n  173  \t\t\tlocal name,conn = next(self.connections)\n  174  \t\t\tself.connections[name] = nil\n  175: \t\t\tconn:disconnect()\n  176  \t\tend)\n  177  \tend\n  ...\n  182  \tself.connections = setmetatable({},{__mode = \"kv\"})\n  183  \tfor name,conn in pairs(connections) do\n  184: \t\tpcall(conn.disconnect,conn)\n  185  \tend\n  186  end\n  ...\n  232  \t\t\t\t\t-- to avoid waiting for the GC finalizer. File\n  233  \t\t\t\t\t-- descriptors are a rare resource.\n  234: \t\t\t\t\tconn:disconnect()\n  235  \t\t\t\tend\n  236  \t\t\telse\n  ...\n  363  \t\tend\n  364  \tend\n  365: \terror(string.format(\"Too many Cluster redirections?,maybe node is disconnected (last error: %q)\",err))\n  366  end\n  367  \n\nE:\\work\\football\\FBServer\\lualib\\snax\\gateserver.lua:\n  102  \tfunction MSG.close(fd)\n  103  \t\tif fd ~= socket then\n  104: \t\t\tif handler.disconnect then\n  105: \t\t\t\thandler.disconnect(fd)\n  106  \t\t\tend\n  107  \t\t\tclose_fd(fd)\n\nE:\\work\\football\\FBServer\\lualib\\snax\\msgserver.lua:\n   73  \tconf.request_handler(username, session, msg) : the function when recv a new request.\n   74  \tconf.register_handler(servername) : call when gate open\n   75: \tconf.disconnect_handler(username) : call when a connection disconnect (afk)\n   76  ]]\n   77  \n   ..\n  150  \tend\n  151  \n  152: \tfunction handler.disconnect(fd)\n  153  \t\thandshake[fd] = nil\n  154  \t\tlocal c = connection[fd]\n  ...\n  156  \t\t\tc.fd = nil\n  157  \t\t\tconnection[fd] = nil\n  158: \t\t\tif conf.disconnect_handler then\n  159: \t\t\t\tconf.disconnect_handler(c.username)\n  160  \t\t\tend\n  161  \t\tend\n  162  \tend\n  163  \n  164: \thandler.error = handler.disconnect\n  165  \n  166  \t-- atomic , no yield\n\nE:\\work\\football\\FBServer\\service\\auth.lua:\n   27  end\n   28  \n   29: function command.disconnect(client, oldAgent)\n   30:     authCtrl.disconnect(client, oldAgent)\n   31  end\n   32  \n\nE:\\work\\football\\FBServer\\service\\clusterd.lua:\n  104  \tc:request(request, nil, padding)\n  105  \n  106: \t-- notice: push may fail where the channel is disconnected or broken.\n  107  end\n  108  \n\nE:\\work\\football\\FBServer\\service\\cmaster.lua:\n   23  \t\t\t'C' : CONNECT slave_id slave_address\n   24  \t\t\t'N' : NAME globalname address\n   25: \t\t\t'D' : DISCONNECT slave_id\n   26  ]]\n   27  \n   ..\n  119  \t\t\tskynet.fork(monitor_slave, slave, slave_addr)\n  120  \t\telse\n  121: \t\t\tskynet.error(string.format(\"disconnect fd = %d, error = %s\", id, slave))\n  122  \t\t\tsocket.close(id)\n  123  \t\tend\n\nE:\\work\\football\\FBServer\\service\\cslave.lua:\n  101  \t\t\tend\n  102  \t\telse\n  103: \t\t\tskynet.error(\"Master disconnect\")\n  104  \t\t\tfor _, v in ipairs(monitor_master_set) do\n  105  \t\t\t\tv(true)\n\nE:\\work\\football\\FBServer\\service\\debug_console.lua:\n  110  \t\tskynet.error(stdin, err)\n  111  \tend\n  112: \tskynet.error(stdin, \"disconnected\")\n  113  \tsocket.close(stdin)\n  114  end\n\nE:\\work\\football\\FBServer\\service\\gate.lua:\n   55  end\n   56  \n   57: function handler.disconnect(fd)\n   58  \tclose_fd(fd)\n   59  \tskynet.send(watchdog, \"lua\", \"socket\", \"close\", fd)\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n   37  local loginingCount = 0\t--正在登录玩家数量\n   38  local roles = {}\t\t\t   --登录玩家信息\n   39: local disconnectRole = {}\n   40: local disconnectClient = {}\n   41  \n   42  local totalLoginCostTime = 0\n   ..\n   57  \n   58  local function getclientByRoleId(roleId)\n   59:     -- print (\"getclientByRoleId = \", roleId, roles[roleId] or (disconnectRole[roleId] and disconnectRole[roleId].client or nil))\n   60:     return disconnectRole[roleId] and disconnectRole[roleId].client or roles[roleId]\n   61  end\n   62  local function sendBuffer(client, buffer)\n   ..\n   65          return\n   66      end\n   67: \tif disconnectClient[client] or not clients[client] then\n   68          print (\"用户离线消息记录 = \", client)\n   69:         disconnectClient[client].msg[#disconnectClient[client].msg + 1] = buffer\n   70          return\n   71  \tend\n   72  \n   73  \tlocal sendRet = csend(client, buffer)\n   74:     if not sendRet or disconnectClient[client] then\n   75          print (\"用户离线消息记录 = \", client)\n   76:         disconnectClient[client].msg[#disconnectClient[client].msg + 1] = buffer\n   77      else\n   78          print (\"在线协议推送到 client = \", client)\n   ..\n  291                  else\n  292                      print (\"为什么会不存在 = \", roleId)\n  293:                     dump(disconnectRole)\n  294                      dump(roles)\n  295                  end\n  296              end\n  297          end\n  298:         for roleId, _ in pairs(disconnectRole) do\n  299              if roleId ~= exclude then\n  300                  local client = getclientByRoleId(roleId)\n  ...\n  413  \n  414  -- 清理断线重连缓存\n  415: function command.cleanDisconnect(roleId)\n  416:     if not disconnectRole[roleId] then\n  417          return\n  418      end\n  419      print (\"用户完全退出 清理消息缓存 = \", roleId)\n  420:     local client = disconnectRole[roleId].client\n  421:     disconnectClient[client] = nil\n  422:     disconnectRole[roleId] = nil\n  423  end\n  424  \n  425  -- 重连发起成功\n  426  function command.reconnect(newClient, roleId, agent)\n  427:     if not disconnectRole[roleId] then\n  428          return\n  429      end\n  430:     print (\"重连协议记录 -------------\", roleId, newClient, #disconnectRole[roleId].msg)\n  431:     local msgList = disconnectRole[roleId].msg\n  432      roles[roleId] = newClient\n  433      command.setAgent(newClient, agent, roleId)\n  434:     disconnectClient[disconnectRole[roleId].client] = nil\n  435:     disconnectRole[roleId] = nil\n  436  \n  437:     dump(disconnectRole)\n  438:     dump(disconnectClient)\n  439      for _, buffer in ipairs(msgList) do\n  440          print (\"重连协议发送 = \", newClient, buffer)\n  ...\n  447      local now = skynet.time()\n  448      local cleanClientfd\n  449:     for client, info in pairs(disconnectClient) do\n  450          if now - info.reconnectTime >= reconnectTime then\n  451              if not cleanClientfd then\n  ...\n  459      if cleanClientfd then\n  460          for client, roleId in pairs(cleanClientfd) do\n  461:             disconnectClient[client] = nil\n  462:             disconnectRole[roleId] = nil\n  463              context.sendS2S(SERVICE.AUTH, \"castLogout\", client)\n  464          end\n  ...\n  707          -- 压入\n  708          if reconnectTime and reconnectTime > 0 then\n  709:             print (\"创建消息队列缓存 = \", c.client, disconnectClient[c.client])\n  710:             if not disconnectClient[c.client] then\n  711:                 disconnectClient[c.client] = {\n  712                      msg = {},\n  713                      roleId = c.roleId,\n  ...\n  715                      reconnectTime = skynet.time()\n  716                  }\n  717:                 disconnectRole[c.roleId] = disconnectClient[c.client]\n  718              end\n  719          end\n\nE:\\work\\football\\FBServer\\service-src\\service_harbor.c:\n   10  \tA fd id: accept new harbor , we should send self_id to fd , and then send queue.\n   11  \n   12: \tIf the fd is disconnected, send message to slave in PTYPE_TEXT.  D id\n   13  \tIf we don't known a globalname, send message to slave in PTYPE_TEXT. Q name\n   14   */\n\nE:\\work\\football\\FBServer\\test\\testharborlink.lua:\n    9  \tprint(\"LOG =\", skynet.address(harbor.queryname \"LOG\"))\n   10  \tharbor.link(2)\n   11: \tprint(\"disconnected\")\n   12  end)\n   13  \n\nE:\\work\\football\\FBServer\\test\\testmysql.lua:\n  126      end\n  127  \n  128: \t--db:disconnect()\n  129  \t--skynet.exit()\n  130  end)\n\nE:\\work\\football\\FBServer\\test\\testpipeline.lua:\n   65  \tend\n   66  \n   67: \tdb:disconnect()\n   68  \tskynet.exit()\n   69  end)\n\nE:\\work\\football\\FBServer\\test\\testredis.lua:\n   62  \tend\n   63  \n   64: \tdb:disconnect()\n   65  --\tskynet.exit()\n   66  end)\n\n79 matches across 23 files\n\n\nSearching 1226 files for \"reconnect\"\n\nE:\\work\\football\\FBServer\\config_public:\n   25  openChargeRet = nil            -- 是否开放充值返利\n   26  \n   27: reconnectTime = 10 -- 断线重连保持时间 <= 0 or nil则不支持断线重连\n   28  \n   29  \n\nE:\\work\\football\\FBServer\\HISTORY.md:\n  388  ------------------\n  389  \n  390: * Socket channel should clear request queue when reconnect.\n  391  * Fix the issue that socket close may block the coroutine.\n  392  * Fix the issue that jemalloc api may crash on macosx (disable jemalloc on macosx).\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  161  \n  162  -- 用户断线重连\n  163: function authCtrl.reconnect(newClient, data)\n  164  \tdump(disconnectRoleList, \"请求重连 用户信息列表\")\n  165  \tlocal svc = getLogicSvc()\n  ...\n  171  \t\treturn ec\n  172  \tend\n  173: \tcontext.callS2S(disconnectRoleList[roleId].agent, \"reConnect\", roleId, newClient)\n  174: \tcontext.sendS2S(SERVICE.WATCHDOG, \"reconnect\", newClient, roleId, disconnectRoleList[roleId].agent)\n  175  \treturn SystemError.success\n  176  end\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_impl.lua:\n   11  end\n   12  \n   13: function authImpl.reconnect(client, data, requestId)\n   14:     print (\"reconnect = \", client)\n   15:     return authCtrl.reconnect(client, data)\n   16  end\n   17  \n\nE:\\work\\football\\FBServer\\logic\\config\\login_maskname.lua:\n 7342      [\"classmates.profile.management.user-qvrh4skwm.controlupdatedpanel.com\"] = {maskWord = [[classmates.profile.management.user-qvrh4skwm.controlupdatedpanel.com]],},\n 7343      [\"classmates.profile.process.user-9quqg56is.installationsupdates.com\"] = {maskWord = [[classmates.profile.process.user-9quqg56is.installationsupdates.com]],},\n 7344:     [\"classmates.profile.secureconnection.user-bxkm1kc6n.resetyourvideoplayer.com\"] = {maskWord = [[classmates.profile.secureconnection.user-bxkm1kc6n.resetyourvideoplayer.com]],},\n 7345      [\"clc2007.nenu.edu.cn\"] = {maskWord = [[clc2007.nenu.edu.cn]],},\n 7346      [\"clearclips.com\"] = {maskWord = [[clearclips.com]],},\n\nE:\\work\\football\\FBServer\\lualib\\skynet\\socketchannel.lua:\n    3  local socketdriver = require \"skynet.socketdriver\"\n    4  \n    5: -- channel support auto reconnect , and capture socket error in request/response transaction\n    6  -- { host = \"\", port = , auth = function(so) , response = function(so) session, data }\n    7  \n    .\n  278  \t\tend\n  279  \t\tif t > 1000 then\n  280: \t\t\tskynet.error(\"socket: try to reconnect\", self.__host, self.__port)\n  281  \t\t\tskynet.sleep(t)\n  282  \t\t\tt = 0\n\nE:\\work\\football\\FBServer\\service\\agent.lua:\n  107  \n  108  -- 重登陆\n  109: function command.reConnect(roleId, client)\n  110  \tprint (\"用户请求重连 需要重新定位 = \", roleId, client)\n  111  \tif agent.roles[roleId] then\n\nE:\\work\\football\\FBServer\\service\\proto_map.lua:\n  102  \theartbeat \t\t\t= {id = 0x0103, type = 1, request = nil, response = nil, log = 0, desc = \"心跳\"},\n  103  \tgetRandomName\t\t= {id = 0x0104, type = 1, request = \"auth.GetRandomName\", response = \"auth.RetRandomName\", log = 0, desc = \"获取随机命名\"},\n  104: \treconnect\t\t\t= {id = 0x0105, type = 1, request = \"auth.LoginRequest\", response = nil, log = 2, desc = \"请求断线重连\"},\n  105  -- \tonOffline\t\t\t= {id = 0x0104, type = 2, response = \"auth.OfflineReason\", log = 2, desc = \"离线\"},\n  106  }\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n   18  local maxLogining =  tonumber(skynet.getenv(\"maxLogining\"))\t--最大同时登录人数\n   19  local heartbeatInterval = tonumber(skynet.getenv(\"heartbeatInterval\")) --心跳检查间隔\n   20: local reconnectTime = tonumber(skynet.getenv(\"reconnectTime\")) --断线重连保持时间\n   21  local AUTH_CLIENT_HEARTBEAT_INTERVAL = 5            -- 前端设定心跳间隔\n   22  local ERROR_HEARTBEAT_CHECK_DIFF = 3             -- 允许误差倍数\n   ..\n  424  \n  425  -- 重连发起成功\n  426: function command.reconnect(newClient, roleId, agent)\n  427      if not disconnectRole[roleId] then\n  428          return\n  ...\n  445  end\n  446  \n  447: local function checkReconnect()\n  448      local now = skynet.time()\n  449      local cleanClientfd\n  450      for client, info in pairs(disconnectClient) do\n  451:         if now - info.reconnectTime >= reconnectTime then\n  452              if not cleanClientfd then\n  453                  cleanClientfd = {}\n  ...\n  466          cleanClientfd = nil\n  467      end\n  468:     skynet.timeout(100, checkReconnect)\n  469  end\n  470  skynet.info_func(function()\n  ...\n  707      if c.agent then\n  708          -- 压入\n  709:         if reconnectTime and reconnectTime > 0 then\n  710              print (\"创建消息队列缓存 = \", c.client, disconnectClient[c.client])\n  711              if not disconnectClient[c.client] then\n  ...\n  714                      roleId = c.roleId,\n  715                      client = c.client,\n  716:                     reconnectTime = skynet.time()\n  717                  }\n  718                  disconnectRole[c.roleId] = disconnectClient[c.client]\n  ...\n  780  \t\tskynet.timeout(heartbeatInterval * 100, checkClientActive)\n  781  \tend\n  782:     if reconnectTime and reconnectTime > 0 then\n  783:         skynet.timeout(100, checkReconnect)\n  784      end\n  785      portalOnlineNums()\n\n27 matches across 9 files\n\n\nSearching 1226 files for \"closeSocket\"\n\nE:\\work\\football\\FBServer\\logic\\game\\game_impl.lua:\n   19  end\n   20  \n   21: function gameImpl.closeSocket(client)\n   22      print (\"gameimpl = \", client, skynet.self())\n   23      context.sendS2S(SERVICE.AUTH, \"disconnect\", client, skynet.self())\n\nE:\\work\\football\\FBServer\\service\\proto_map.lua:\n   88  \tmodule \t\t\t\t= \"game\",\n   89  \tping\t\t\t\t= {id = 0x0001, type = 1, request = nil, response = \"game.Timestamp\"},\t--返回服务端时间\n   90: \tcloseSocket\t\t\t= {id = 0x0002, type = 1, request = \"number\", response = nil},\t--socket断开\n   91  \tviewShow\t\t\t= {id = 0x0003, type = 1, request = \"game.ViewShow\", response = nil},\t--socket断开\n   92  \ttest\t\t\t\t= {id = 0x0004, type = 1, request = \"number\", response = \"number\"},\t--socket断开\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n  719              end\n  720          end\n  721:         skynet.call(c.agent, \"lua\", \"redirect\", c.client, packBuff(32767 - 1, M_Game.closeSocket, c.client))\n  722  \n  723      else\n\n3 matches across 3 files\n\n\nSearching 1226 files for \"在线协议推送到\"\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n   76          disconnectClient[client].msg[#disconnectClient[client].msg + 1] = buffer\n   77      else\n   78:         print (\"在线协议推送到 client = \", client)\n   79      end\n   80      return sendRet\n\n1 match in 1 file\n\n\nSearching 1226 files for \"SERVICE.WATCHDOG, \"login\"\"\n\n0 matches\n\nSearching 1226 files for \"用户登录请\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  293  \n  294  \n  295: \t-- print (\"用户登录请求时的pid = \", data.pid)\n  296  \tonline =  {\n  297  \t\tclient = client,\n\n1 match in 1 file\n\n\nSearching 1226 files for \"用户登录\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  293  \n  294  \n  295: \t-- print (\"用户登录请求时的pid = \", data.pid)\n  296  \tonline =  {\n  297  \t\tclient = client,\n\nE:\\work\\football\\FBServer\\service\\chat_svc.lua:\n   82  \n   83  function command.onLogin(roleId, client, agentAddress)\n   84: \t-- print(\"聊天服务 用户登录 = \", roleId, client, agentAddress)\n   85  end\n   86  \n\nE:\\work\\football\\FBServer\\service\\fight_svc.lua:\n  192          roleMatchCallBack[roleId] = errorResult\n  193      end\n  194:     -- print(\"比赛服务 用户登录 = \", roleId, client, agentAddress)\n  195  end\n  196  \n\n3 matches across 3 files\n\n\nSearching 1226 files for \"用户登陆\"\n\nE:\\work\\football\\FBServer\\logic\\config\\login_maskname.lua:\n 22842      [\"更衣\"] = {maskWord = [[更衣]],},\n 22843      [\"工力\"] = {maskWord = [[工力]],},\n 22844:     [\"工商银行用户登陆\"] = {maskWord = [[工商银行用户登陆]],},\n 22845      [\"工业炸药配方设计\"] = {maskWord = [[工业炸药配方设计]],},\n 22846      [\"工自联\"] = {maskWord = [[工自联]],},\n\nE:\\work\\football\\FBServer\\service\\agent.lua:\n   88  \t-- end\n   89  \t-- require(\"role.role_ctrl\").setAccountInfo(uid, pid, channel_id)\n   90: \tprint (\"用户登陆 = \", roleId, client)\n   91  \tif roleCount >= agentRoleCount then\n   92  \t\tlogger.Error(\"agent已经达到玩家承载上限，roleId:\", roleId)\n\n3 matches across 2 files\n\n\nSearching 1226 files for \"用户退出\"\n\nE:\\work\\football\\FBServer\\service\\agent.lua:\n  132  \t--调用登出回调函数\n  133  \tlocal role = agent.roles[roleId]\n  134: \tprint (\"用户退出 = \", roleId, role.client)\n  135  \trole.RoleObj:onLogout()\n  136  \tagent.clients[role.client] = nil\n\n1 match in 1 file\n\n\nSearching 1226 files for \"cleanDisconnect\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  210  \tend\n  211  \tcontext.callS2S(SERVICE.AGENT, \"logout\", online.roleId, client)\n  212: \tcontext.callS2S(SERVICE.WATCHDOG, \"cleanDisconnect\", online.roleId)\n  213      context.callS2S(SERVICE.WATCHDOG, \"checkKickAllRole\")\n  214  \tlogger.Infof(\"auth.castLogout, roleId[%s]\", online.roleId)\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n  412  \n  413  -- 清理断线重连缓存\n  414: function command.cleanDisconnect(roleId)\n  415      if not disconnectRole[roleId] then\n  416          return\n\n2 matches across 2 files\n\n\nSearching 1226 files for \"cleanDisconnect\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  210  \tend\n  211  \tcontext.callS2S(SERVICE.AGENT, \"logout\", online.roleId, client)\n  212: \tcontext.callS2S(SERVICE.WATCHDOG, \"cleanDisconnect\", client)\n  213      context.callS2S(SERVICE.WATCHDOG, \"checkKickAllRole\")\n  214  \tlogger.Infof(\"auth.castLogout, roleId[%s]\", online.roleId)\n\nE:\\work\\football\\FBServer\\service\\watchdog.lua:\n  412  \n  413  -- 清理断线重连缓存\n  414: function command.cleanDisconnect(client)\n  415      if not disconnectClient[client] then\n  416          return\n\n2 matches across 2 files\n\n\nSearching 1226 files for \"用户断线 用户信息列表\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n  192  \tlocal online = onlines[oldClient]\n  193  \tif not online or not online.roleId then\n  194: \t\tprint (\"用户断线 用户信息列表 无法获取roleId oldClient = \", oldClient)\n  195  \t\tdump(onlines)\n  196  \t\treturn\n  197  \tend\n  198: \tprint (\"用户断线 用户信息列表 roleid = \", online.roleId, oldClient, agent)\n  199  \tdisconnectRoleList[online.roleId] = {\n  200  \t\toldClient = oldClient,\n\n2 matches in 1 file\n\n\nSearching 1227 files for \"onlines\"\n\nE:\\work\\football\\FBServer\\logic\\auth\\auth_ctrl.lua:\n   19  \n   20  local onlineWatchers = {}\n   21: local onlines = {}\n   22: local onlinesOfuid = {}\n   23  local disconnectRoleList = {}\n   24  \n   ..\n  144  \n  145  function authCtrl.castLogin(roleId, client, requestId, isCreateLogin)\n  146: \tlocal online = onlines[client]\n  147  \tonline.loginTime = skynet.time()\n  148  \t-- print (\"向打点服务提交用户当前登录pid = \", roleId, online.pid)\n  ...\n  163  function authCtrl.reconnect(newClient, data)\n  164  \t-- dump(disconnectRoleList)\n  165: \tif onlinesOfuid[data.uid] then\n  166: \t\t-- print (\"重连失败 用户在线 = \", newClient, onlinesOfuid[data.uid])\n  167  \t\treturn SystemError.failReConnect\n  168  \tend\n  ...\n  180  \t-- 重定位\n  181  \tlocal oldClient = disconnectRoleList[roleId].oldClient\n  182: \tlocal online = onlines[oldClient]\n  183  \tif online then\n  184  \t\tonline.client = newClient\n  185: \t\tonlines[newClient] = online\n  186: \t\tonlines[oldClient] = nil\n  187  \tend\n  188: \tonlinesOfuid[data.uid] = newClient\n  189  \tcontext.callS2S(SERVICE.AGENT, \"reConnect\", roleId, newClient)\n  190  \tcontext.sendS2S(SERVICE.WATCHDOG, \"reconnect\", newClient, roleId, disconnectRoleList[roleId].agent)\n  ...\n  196  -- 用户断线\n  197  function authCtrl.disconnect(oldClient, agent)\n  198: \tlocal online = onlines[oldClient]\n  199  \tif not online or not online.roleId then\n  200  \t\t-- print (\"用户断线 用户信息列表 无法获取roleId oldClient = \", oldClient)\n  201: \t\t-- dump(onlines)\n  202  \t\treturn\n  203  \tend\n  204: \tonlinesOfuid[online.uid] = nil\n  205  \t-- print (\"用户断线 用户信息列表 roleid = \", online.roleId, oldClient, agent)\n  206  \tdisconnectRoleList[online.roleId] = {\n  ...\n  212  -- 用户真正退出\n  213  function authCtrl.castLogout(client)\n  214: \tlocal online = onlines[client]\n  215  \tif not online or not online.roleId then\n  216  \t\treturn\n  ...\n  221  \tlogger.Infof(\"auth.castLogout, roleId[%s]\", online.roleId)\n  222  \n  223: \tif client == onlinesOfuid[online.uid] then\n  224: \t\tonlinesOfuid[online.uid] = nil\n  225  \tend\n  226  \n  ...\n  242  \tlocal postData = {}\n  243      postData.accounts = online.uid\n  244:     postData.onlineSecs = math.floor(skynet.time() - online.loginTime)\n  245      postData.pid = online.pid\n  246      httpUnit.sendToGame(\"updateLoginLog\", postData)\n  247      -- print (\"登出 = \", client)\n  248:     onlines[client] = nil\n  249  \tdisconnectRoleList[online.roleId] = nil\n  250  end\n  ...\n  267  \t\treturn SystemError.busy\n  268  \tend\n  269: \tlocal online = onlines[client]\n  270  \tif online then\n  271  \t\tif online.status ~= LoginStatus.LOGINING then\n  ...\n  293  \n  294  \t--验证该账号是否已经登录了，有则踢下线\n  295: \tlocal otherClient = onlinesOfuid[data.uid]\n  296: \tonlinesOfuid[data.uid] = client\n  297  \tif otherClient then\n  298  \t\t-- print (\"账号已经登陆 kick oldClient = \", otherClient)\n  ...\n  313  \t\tpid = data.pid,\n  314  \t\tsid = data.sid}\n  315: \tonlines[client] = online\n  316  \tonline.status = LoginStatus.LOGINED\n  317  \n  ...\n  328  function authCtrl.createRole(client, data, requestId)\n  329  \tlogger.Debugf(\"auth.createRole, data[%s]\", json.encode(data))\n  330: \tlocal online = onlines[client]\n  331  \tif online == nil or online.status ~= LoginStatus.LOGINED then\n  332  \t\tlogger.Errorf(\"online status is invalid, client[%x]\", client)\n\nE:\\work\\football\\FBServer\\logic\\common\\client_helper.lua:\n   68  \n   69      if requestId <= clientRequestIdList[client] then\n   70:         local roleId = onlines[client] or -1\n   71          logger.Errorf(\"more requestId proto = %s, requestId = %d, roleId = %d\", proto.name, requestId, roleId)\n   72          return SystemError.protoNotExisits\n   ..\n  117          ec, ret = func(client, data, requestId)\n  118      else\n  119:         local roleId = onlines[client]\n  120          if roleId == nil then\n  121              logger.Errorf(\"roleId is nil, proto[%s], service[%s] ,client[%x]\", proto.fullname, proto.service, client)\n\nE:\\work\\football\\FBServer\\logic\\common\\context.lua:\n  107  -- 在agent登陆后才会创建的服务需要调用一次同步agent登录态\n  108  function context.notifyAgentRegInfo(address)\n  109:     context.callS2S(address, \"notifyAgentRegInfo\", context.agentAddressList, context.onlines)\n  110  end\n  111  return context\n\nE:\\work\\football\\FBServer\\logic\\config\\login_maskname.lua:\n 7384  \t[\"community.xxx.com\"] = {maskWord = [[community.xxx.com]],},\n 7385  \t[\"computername.51mudi.com\"] = {maskWord = [[computername.51mudi.com]],},\n 7386: \t[\"computeronlinescan.com\"] = {maskWord = [[computeronlinescan.com]],},\n 7387  \t[\"condoms-shop.com\"] = {maskWord = [[condoms-shop.com]],},\n 7388  \t[\"config.iwillhavesexygirls.com\"] = {maskWord = [[config.iwillhavesexygirls.com]],},\n ....\n 8564  \t[\"fuckrav.9966.org\"] = {maskWord = [[fuckrav.9966.org]],},\n 8565  \t[\"fucn.ch.ma\"] = {maskWord = [[fucn.ch.ma]],},\n 8566: \t[\"fullantispywareonlinescane.com\"] = {maskWord = [[fullantispywareonlinescane.com]],},\n 8567  \t[\"fullantispywareproscan.com\"] = {maskWord = [[fullantispywareproscan.com]],},\n 8568  \t[\"funky-soft.org\"] = {maskWord = [[funky-soft.org]],},\n ....\n 10398  \t[\"onlineanalytics.cn\"] = {maskWord = [[onlineanalytics.cn]],},\n 10399  \t[\"onlinecheckping.com\"] = {maskWord = [[onlinecheckping.com]],},\n 10400: \t[\"onlinescanweb.com\"] = {maskWord = [[onlinescanweb.com]],},\n 10401: \t[\"onlinescanxppro.com\"] = {maskWord = [[onlinescanxppro.com]],},\n 10402: \t[\"onlinesexy.ru\"] = {maskWord = [[onlinesexy.ru]],},\n 10403  \t[\"onpress.com.sg\"] = {maskWord = [[onpress.com.sg]],},\n 10404  \t[\"onsese.com\"] = {maskWord = [[onsese.com]],},\n\nE:\\work\\football\\FBServer\\logic\\relation\\relation_const.lua:\n    1  local RelationConst = {}\n    2: RelationConst.OnlineStatus = {\n    3      ONLINE = 1,     -- 在线\n    4      OFFLINE = 2,    -- 离线\n\nE:\\work\\football\\FBServer\\logic\\role\\role_class.lua:\n  378                  level = self._roleBaseInfo.level,\n  379                  teamLogo = self._roleBaseInfo.teamLogo,\n  380:                 onlineStatus = 1,\n  381                  lastLogoutTime = self._roleBaseInfo.lastLogoutTime,\n  382                  loginTime = self._roleBaseInfo.loginTime,\n\nE:\\work\\football\\FBServer\\pb\\relation.sproto:\n    2  .FriendInfo {\n    3  \troleId 0 : number \t\t\t# 好友id\n    4: \tonlineStatus 1 : number \t# 在线状态\n    5  \tlevel 2 : number \t\t\t# 好友等级\n    6  \tteamLogo 3 : number \t\t# 队徽\n\nE:\\work\\football\\FBServer\\service\\agent_mgr.lua:\n  149  end\n  150  \n  151: function command.getOnlineState(roleIds)\n  152  \tlocal states = {}\n  153  \tfor _, roleId in pairs(roleIds) do\n\nE:\\work\\football\\FBServer\\service\\relation_svc.lua:\n   31              vipLevel = 0,\n   32              level = 1,\n   33:             onlineStatus = 1,\n   34              teamLogo = ,    -- 队徽\n   35              lastLogoutTime = , -- 上次离线时间\n   ..\n  130      return {\n  131          roleId = roleId,\n  132:         onlineStatus = relationCache[roleId].roleInfo.onlineStatus,\n  133          level = relationCache[roleId].roleInfo.level,\n  134          nickname = relationCache[roleId].roleInfo.nickname,\n  ...\n  407  function command.notifyRelationData(roleId, newData, isOnline)\n  408      if isOnline then\n  409:         newData.onlineStatus = RelationConst.OnlineStatus.ONLINE\n  410      else\n  411:         newData.onlineStatus = RelationConst.OnlineStatus.OFFLINE\n  412      end\n  413:     -- print (\"用户信息同步 \", roleId , newData.onlineStatus)\n  414      if not relationCache[roleId] then\n  415          relationCache[roleId] = {\n  ...\n  433          level = newData.level or relationCache[roleId].roleInfo.level,\n  434          teamLogo = newData.teamLogo or relationCache[roleId].roleInfo.teamLogo,    -- 队徽\n  435:         onlineStatus = newData.onlineStatus,\n  436          lastLogoutTime = newData.lastLogoutTime or relationCache[roleId].roleInfo.lastLogoutTime, -- 上次离线时间\n  437          loginTime = newData.lastLoginTime or relationCache[roleId].roleInfo.lastLoginTime,  -- 上次登陆时间\n  ...\n  509  \n  510      -- 被申请人在线 则需要通知\n  511:     -- print (\"被申请人状态 = \", friendRoleId, relationCache[friendRoleId].roleInfo.onlineStatus)\n  512:     if relationCache[friendRoleId].roleInfo.onlineStatus == RelationConst.OnlineStatus.ONLINE then\n  513          context.sendS2C(friendRoleId, M_Relation.onApplicationFriend, packSendData_FriendData(roleId))\n  514      end\n  ...\n  577      -- 入库\n  578      dbHelp.send(\"relation.addFriend\", applicationRoleId, roleId)\n  579:     -- print (\"同意申请 = \", applicationRoleId, relationCache[applicationRoleId].roleInfo.onlineStatus)\n  580:     if relationCache[applicationRoleId].roleInfo.onlineStatus == RelationConst.OnlineStatus.ONLINE then\n  581          -- 通知对方好友成功添加\n  582          context.sendS2C(applicationRoleId, M_Relation.onAgreeApplicationFriend, packSendData_FriendData(roleId))\n  ...\n  675      -- 入库\n  676      dbHelp.send(\"relation.delFriend\", friendRoleId, roleId)\n  677:     -- print (\"删除者状态 = \", relationCache[friendRoleId].onlineStatus)\n  678:     if relationCache[friendRoleId].roleInfo.onlineStatus == RelationConst.OnlineStatus.ONLINE then\n  679          -- 被删除方在线 同步\n  680          context.sendS2C(friendRoleId, M_Relation.onDelFriend, roleId)\n  ...\n 1150      -- dump(allRelationInfo)\n 1151      for roleId, relationInfo in pairs(allRelationInfo) do\n 1152:         relationCache[roleId].roleInfo.onlineStatus = RelationConst.OnlineStatus.OFFLINE\n 1153          if relationInfo.application then\n 1154              for _, applicationRoleId in ipairs(relationInfo.application) do\n\nE:\\work\\football\\FBServer\\service\\service_base.lua:\n   16  clientHelper.ServiceBase = ServiceBase\n   17  \n   18: local onlines = {}\n   19  local agentAddressList = {}\n   20  context.agentAddressList = agentAddressList\n   21: context.onlines = onlines\n   22  ServiceBase.command = require(\"command_base\")\n   23  local command = ServiceBase.command\n   24  \n   25: function command.notifyAgentRegInfo(agentAddressList, onlines)\n   26: \tfor client, roleId in pairs(onlines) do\n   27  \t\tcommand.login(roleId, client, agentAddressList[roleId])\n   28  \tend\n   ..\n   31  function command.login(roleId, client, agentAddress)\n   32  \t-- print (\"command.login = \", skynet.self(), roleId, agentAddress)\n   33: \tonlines[client] = roleId\n   34  \tagentAddressList[roleId] = agentAddress\n   35  \tif command.onLogin then\n   ..\n   40  function command.logout(roleId, client)\n   41  \tprint (\"command.logout = \", skynet.self(), roleId, agentAddressList[roleId])\n   42: \tonlines[client] = nil\n   43  \tagentAddressList[roleId] = nil\n   44  \tif command.onLogout then\n\n67 matches across 10 files\n",
+					"settings":
+					{
+						"buffer_size": 63803,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/service/errorcode.lua",
+					"settings":
+					{
+						"buffer_size": 15406,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/match/match_ctrl.lua",
+					"settings":
+					{
+						"buffer_size": 457,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/service/chat_svc.lua",
+					"settings":
+					{
+						"buffer_size": 7917,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/common/client_helper.lua",
+					"settings":
+					{
+						"buffer_size": 10598,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/service/service_base.lua",
+					"settings":
+					{
+						"buffer_size": 2147,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/game/game_impl.lua",
+					"settings":
+					{
+						"buffer_size": 1140,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/service/agent.lua",
+					"settings":
+					{
+						"buffer_size": 5852,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/relation/relation_impl.lua",
+					"settings":
+					{
+						"buffer_size": 8079,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/auth/auth_ctrl.lua",
+					"settings":
+					{
+						"buffer_size": 11613,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/service/agent_mgr.lua",
+					"settings":
+					{
+						"buffer_size": 5037,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/config_public",
+					"settings":
+					{
+						"buffer_size": 887,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/pb/auth.sproto",
+					"settings":
+					{
+						"buffer_size": 720,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/work/football/FBServer/logic/common/context.lua",
+					"settings":
+					{
+						"buffer_size": 3685,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Makefile/Make.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Lua/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/Lua Dev/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/User/testLuaBuild.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Lua/Lua.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Lua/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Lua Dev/Lua.sublime-build",
+							""
+						],
+						[
+							"Packages/User/testLuaBuild.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Lua/Lua.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Lua Dev/Lua.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Lua Dev/Lua.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 490.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"inste",
+						"Package Control: Install Package"
+					],
+					[
+						"packagere",
+						"Package Control: Remove Package"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 725.0
+			},
+			"console":
+			{
+				"height": 160.0,
+				"history":
+				[
+					"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.Net/'+pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.NET/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/work/football/FBServer",
+				"/E/work/football/FBServer/3rd",
+				"/E/work/football/FBServer/3rd/lpeg",
+				"/E/work/football/FBServer/lualib"
+			],
+			"file_history":
+			[
+				"/C/Users/cheng/Documents/QQEIM Files/3004926037/FileRecv/注册注册表.bat.txt",
+				"/C/Users/cheng/AppData/Roaming/Sublime Text 3/Packages/Lua Dev/Lua Dev.sublime-settings",
+				"/C/Users/cheng/AppData/Roaming/Sublime Text 3/Installed Packages/LuaAutocomplete.sublime-package",
+				"/C/Users/cheng/AppData/Roaming/Sublime Text 3/Installed Packages/Lua Dev.sublime-package",
+				"/C/Users/cheng/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/cheng/AppData/Roaming/Code/User/settings.json",
+				"/E/work/football/FBServer/service/auth_logic_svc.lua",
+				"/E/work/football/FBServer/service/auth.lua",
+				"/E/work/football/FBServer/service/command_base.lua",
+				"/E/work/football/FBServer/service-src/service_snlua.c",
+				"/E/work/football/FBServer/config_public",
+				"/E/work/football/FBServer/service/agent_mgr.lua",
+				"/E/work/football/FBServer/lualib-src/lua-bson.c",
+				"/E/work/football/FBServer/logic/number_manager/number_mgr_class.lua",
+				"/E/work/football/FBServer/service/gamelog.lua",
+				"/E/work/football/FBServer/skynet-src/socket_server.c",
+				"/E/work/football/FBServer/lualib-src/lua-socket.c",
+				"/E/work/football/FBServer/service/other_role_info_svc.lua",
+				"/E/work/football/FBServer/service/fight_svc.lua",
+				"/E/work/football/FBServer/service/charge.lua",
+				"/E/work/football/FBServer/logic/update/record_update.lua",
+				"/E/work/football/FBServer/logic/common/time_help.lua",
+				"/E/work/football/FBServer/lualib/skynet.lua",
+				"/E/work/football/FBServer/logic/chat/chat_ctrl.lua",
+				"/E/work/football/FBServer/service/service_base.lua",
+				"/E/work/football/FBServer/logic/game/game_impl.lua",
+				"/E/work/football/FBServer/service/agent.lua",
+				"/E/work/football/FBServer/logic/auth/auth_ctrl.lua",
+				"/E/work/football/FBServer/service/proto_map.lua",
+				"/E/work/football/FBServer/lualib/sprotoloader.lua",
+				"/E/work/football/FBServer/lualib/skynet/queue.lua",
+				"/E/work/football/FBServer/skynet-src/skynet_log.c",
+				"/E/work/football/FBServer/service-src/service_logger.c",
+				"/E/work/football/FBServer/config_log",
+				"/E/work/football/FBServer/lualib/functions.lua",
+				"/E/work/football/FBServer/logic/match_hall/match_hall_class.lua",
+				"/E/work/football/FBServer/service/relation_svc.lua",
+				"/E/work/football/FBServer/config_agent",
+				"/E/work/football/FBServer/config_frontend",
+				"/E/work/football/FBServer/skynet-src/skynet_socket.c",
+				"/E/work/football/FBServer/lualib/skynet/socket.lua",
+				"/E/work/football/FBServer/logic/common/context.lua",
+				"/E/work/football/FBServer/service/globallog.lua",
+				"/E/work/football/FBServer/service/log_launcher.lua",
+				"/E/work/football/FBServer/service/frontend.lua",
+				"/C/Python36/Scripts/pyinstall.py",
+				"/C/Python36/3rd/pyinstaller-develop/README.rst",
+				"/E/work/football/FBServer/skynet-src/skynet_error.c",
+				"/E/work/football/FBServer/logic/role_shop/role_shop_class.lua",
+				"/E/work/football/FBServer/logic/common/client_helper.lua",
+				"/E/work/football/FBServer/lualib-src/lua-skynet.c",
+				"/E/work/football/FBServer/service/code_test.lua",
+				"/E/work/football/FBServer/logic/bag/bag_db.lua",
+				"/E/work/tech/toolsSrc/notifyTools/encode.py",
+				"/E/work/tech/toolsSrc/notifyTools/prpcrypt.py",
+				"/E/work/football/FBServer/logic/role_shop/role_shop_db.lua",
+				"/E/work/football/FBServer/logic/relation/relation_db.lua",
+				"/E/work/tech/toolsSrc/notifyTools/updateConfig.py",
+				"/E/work/tech/toolsSrc/notifyTools/ssh.py",
+				"/E/work/tech/toolsSrc/datagen/uninstall.py",
+				"/E/work/football/FBServer/logic/task/task_db.lua",
+				"/E/work/tech/toolsSrc/notifyTools/upcode.sh",
+				"/E/work/football/FBServer/lualib/logger.lua",
+				"/E/work/football/FBServer/service/debug_console.lua",
+				"/E/work/football/FBServer/skynet-src/skynet_module.c",
+				"/E/work/football/FBServer/lualib/loader.lua",
+				"/E/work/football/FBServer/service/chat_svc.lua",
+				"/E/work/football/FBServer/logic/chat/chat_impl.lua",
+				"/E/work/football/FBServer/platform.mk",
+				"/E/work/football/FBServer/logic/role/role_class.lua",
+				"/E/work/football/FBServer/skynet-src/skynet_start.c",
+				"/E/work/football/FBServer/service/social.lua",
+				"/E/work/football/FBServer/service/fight.lua",
+				"/E/work/football/FBServer/service/dbg.lua",
+				"/E/work/football/FBServer/service/agent_luancher.lua",
+				"/E/work/football/FBServer/lualib/skynet/cluster.lua",
+				"/E/work/football/FBServer/service/clusterd.lua",
+				"/E/work/football/FBServer/service/cmaster.lua",
+				"/E/work/football/FBServer/config_port",
+				"/E/work/football/FBServer/skynet-src/malloc_hook.c",
+				"/E/work/football/FBServer/3rd/lua/loadlib.c",
+				"/E/work/football/FBServer/3rd/lua/luaconf.h",
+				"/E/work/football/FBServer/config_path",
+				"/E/work/football/FBServer/lualib/json.lua",
+				"/E/work/football/FBServer/lualib/skynet/db/mongo.lua",
+				"/E/work/football/FBServer/lualib/sharedata/corelib.lua",
+				"/E/work/football/FBServer/service/watchdog.lua",
+				"/E/work/football/FBServer/logic/recorder/proto_recorder.lua",
+				"/E/work/football/FBServer/service/simple_http.lua",
+				"/E/work/football/FBServer/service/db.lua",
+				"/E/work/football/FBServer/service/record.lua",
+				"/E/work/football/FBServer/lualib/http/httpc.lua",
+				"/E/work/football/FBServer/Makefile",
+				"/E/work/football/FBServer/3rd/jemalloc/autogen.sh",
+				"/E/work/football/FBServer/3rd/jemalloc/configure.ac",
+				"/E/work/football/FBServer/lualib/sproto_helper.lua",
+				"/E/work/football/FBServer/service/http_unit.lua",
+				"/E/work/football/FBServer/service/errorcode.lua",
+				"/E/work/tech/code/server/Makefile",
+				"/E/work/football/FBServer/service/main_db_svc.lua",
+				"/E/work/football/FBServer/service/main_db.lua",
+				"/E/work/football/FBServer/config_db",
+				"/E/work/football/FBServer/auto_deploy.sh",
+				"/E/work/football/FBServer/run.sh",
+				"/E/work/football/FBServer/service/datacenterd.lua",
+				"/E/work/football/FBServer/skynet-src/skynet_main.c",
+				"/E/work/football/FBServer/skynet_autogen.sh",
+				"/E/work/football/FBServer/autogem.sh",
+				"/E/work/football/FBServer/service/cslave.lua",
+				"/E/work/football/FBServer/service/bootstrap.lua",
+				"/E/work/football/FBServer/lualib/log.lua",
+				"/E/work/football/FBServer/logic/common/res_operate.lua",
+				"/E/work/football/FBServer/service/mail_svc.lua",
+				"/E/work/football/FBServer/3rd/lpeg/lpcap.c",
+				"/E/work/football/FBServer/service/launcher.lua",
+				"/E/work/football/FBServer/service/cmemory.lua",
+				"/E/work/football/FBDoc/配置表/项目配置文件/config_check_ctrl.lua",
+				"/E/work/football/FBServer/3rd/lua/ldblib.c",
+				"/E/work/football/FBServer/logic/fight/match_const.lua",
+				"/E/work/football/FBServer/logic/mail/mail_class.lua",
+				"/E/work/football/FBServer/logic/mail/mail_impl.lua",
+				"/E/work/football/FBServer/logic/relation/relation_const.lua",
+				"/E/work/football/FBServer/logic/mail/mail_const.lua",
+				"/E/work/football/FBServer/lualib/redis.lua",
+				"/E/work/football/FBServer/notifyConfig.bat",
+				"/E/work/football/FBDoc/配置表/项目配置文件/配置文件模板.xlsx",
+				"/E/work/football/FBServer/pb/mail.sproto",
+				"/E/work/football/FBServer/logic/test.lua"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"<project>",
+					"<project>,*.lua,*.c,*.cpp,*.cc,*.h",
+					"<project>",
+					"<project>,*.lua",
+					"<project>",
+					"<project>,*.lua",
+					"<project>",
+					"E:\\work\\cswzServer",
+					"<project>",
+					"",
+					"E:\\work\\cswzServer\\3rd\\lua",
+					"E:\\work\\cswzServer\\3rd",
+					"",
+					"configDb.obj_const",
+					"",
+					"*.lua",
+					"",
+					"E:\\work\\cswzServer\\3rd\\lua-pbc",
+					"",
+					"E:\\work\\cswzServer",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ctrl+r",
+					"onLogin",
+					"onlines",
+					"dump",
+					"print",
+					"close = func",
+					"close = fun",
+					"close = ",
+					"用户断线 用户信息列表",
+					"cleanDisconnect",
+					"用户退出",
+					"用户登陆",
+					"用户登录",
+					"用户登录请",
+					"SERVICE.WATCHDOG, \"login\"",
+					"reconnect",
+					"在线协议推送到",
+					"c.client",
+					"fd",
+					"c.client",
+					"clients",
+					"getRoleObj",
+					"closeSocket",
+					"\"disconnect\"",
+					"reconnect",
+					"disconnect",
+					"M_Game.closeSocket",
+					"closeSocket",
+					"disconnect",
+					".client",
+					".client ",
+					"创建消息队列缓存",
+					"reConnect",
+					"clients = ",
+					"clients",
+					"ServiceBase.clients",
+					"clients",
+					"agent",
+					"\"disconnect\"",
+					"disconnect",
+					"authCtrl.disconnect",
+					"reconnect",
+					"notLogin",
+					"未登录",
+					"client",
+					"disconnectClient",
+					"cleanDisconnect",
+					"removeAllEventListeners() - remove all listeners",
+					"client",
+					"Client",
+					"client",
+					"Client",
+					"client",
+					"SocketTCP._reconnect",
+					"disconnect",
+					"M_game",
+					"disconnect",
+					"castSystemMsg",
+					"onMessageCast",
+					"disconnectRole",
+					"client",
+					"M_Game",
+					"client",
+					"onSynScout",
+					"c.client",
+					"清理准备重连协议",
+					"压入消息队列",
+					"创建新的队列信息",
+					"创建新的队列消息",
+					"c.roleId",
+					"sendBuffer",
+					"clearRoleId",
+					"m_Game",
+					"M_Game",
+					"heartbeatInterval",
+					"print",
+					"proto.type",
+					"socket_server_send",
+					"skynet_socket_send",
+					"socketdriver",
+					"csend",
+					"logoutTokenReset",
+					"loginTokenCheck",
+					"castLogout",
+					"fd",
+					"castLogin",
+					"responseC2S",
+					"sendS2C",
+					"sendS2CByClient",
+					"close",
+					"os.time()",
+					"clientsQueue",
+					"ClientHelper.redirect",
+					"queueEnter",
+					"likeRoleId",
+					"updateFriendGroupMsg",
+					"logservice",
+					"logger",
+					"logservice",
+					"skynet_context_push",
+					"PTYPE_SYSTEM",
+					"initFile",
+					"global log server",
+					"logger_create",
+					"logger_init",
+					"LAUNCH snlua",
+					"skynet_handle_findname",
+					"skynet_error",
+					"skynet.error",
+					"logger_create",
+					"logger_init",
+					"skynet.error",
+					"logger_init",
+					"saveShopInfo",
+					"allocBuffer",
+					"lallocBuffer",
+					"jemalloc",
+					"$2",
+					"lua_cpath",
+					"LUA_CLIB_PATH",
+					"mkdir",
+					"skynet_getenv",
+					"PLATFORM",
+					"NOUSE_JEMALLOC",
+					"SKYNET_DEFINES",
+					"NOUSE_JEMALLOC",
+					"(char*)",
+					"PLATFORMA"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"require(\"map.scene_const\")",
+					"require(\"obj.obj_const\")",
+					"configDb.vehicle_const",
+					"configDb.system_open_const",
+					"configDb.talent_const",
+					"configDb.potential_const",
+					"configDb.compose_const",
+					"configDb.shop_const",
+					"configDb.partner_const",
+					"configDb.guild_const",
+					"configDb.lotus_const",
+					"configDb.guide_const",
+					"configDb.form_const",
+					"configDb.copy_world_const",
+					"configDb.mail_const",
+					"configDb.chat_const",
+					"configDb.buy_money_const",
+					"configDb.number_mgr_const",
+					"configDb.base_build_const",
+					"\nconfigDb.base_build_const",
+					"configDb.weather_const",
+					"configDb.synth_const",
+					"configDb.autoincrid_const",
+					"configDb.auth_const",
+					"configDb.attribute_const",
+					"configDb.ai_const",
+					"configDb.activity_const",
+					"configDb.task_const",
+					"configDb.common_const",
+					"configDb.bag_const",
+					"configDb.trade_const",
+					"require(\"trade.trade_const\")\nconfigDb.trade_const",
+					"configDb.goods_const",
+					"configDb.source_const",
+					"configDb.buff_const",
+					"configDb.skill_const",
+					"",
+					"configDb.scene_const",
+					"max",
+					"min",
+					"_dataId",
+					"condition = 220001",
+					"113",
+					"111",
+					"110",
+					"109",
+					"108",
+					"107",
+					"106",
+					"105",
+					"104",
+					"102",
+					"101"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\work\\football\\FBServer"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/work/football/FBServer/service/watchdog.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 20748,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19389,
+										19389
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 16004.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/work/football/FBServer/service/auth.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1097,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										599,
+										617
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/work/football/FBServer/service/code_test.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2210,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										717,
+										717
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/work/football/FBServer/lualib/sproto.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5807,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										449,
+										457
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 22,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/work/football/FBServer/service/proto_map.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16225,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3036,
+										3036
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 41.0,
+								"translation.y": 1769.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 19,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/E/work/football/FBServer/logic/scout/scout_class.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12173,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11431,
+										11431
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 9724.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/E/work/football/FBServer/logic/auth/auth_impl.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 918,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										646,
+										646
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Lua/Lua.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/E/work/football/FBServer/logic/role/role_class.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19350,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8121,
+										8121
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5236.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/E/work/football/FBServer/logic/chat/chat_const.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 566,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/E/work/football/FBServer/logic/scout/scout_impl.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 436,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										316,
+										316
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 23,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 63803,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												144,
+												161
+											],
+											[
+												320,
+												337
+											],
+											[
+												595,
+												612
+											],
+											[
+												639,
+												656
+											],
+											[
+												976,
+												993
+											],
+											[
+												1248,
+												1265
+											],
+											[
+												1292,
+												1309
+											],
+											[
+												1543,
+												1560
+											],
+											[
+												1847,
+												1864
+											],
+											[
+												2045,
+												2062
+											],
+											[
+												2247,
+												2264
+											],
+											[
+												2294,
+												2311
+											],
+											[
+												2675,
+												2683
+											],
+											[
+												3014,
+												3027
+											],
+											[
+												3182,
+												3195
+											],
+											[
+												3271,
+												3284
+											],
+											[
+												3415,
+												3428
+											],
+											[
+												3583,
+												3596
+											],
+											[
+												3948,
+												3961
+											],
+											[
+												4427,
+												4440
+											],
+											[
+												4713,
+												4726
+											],
+											[
+												5085,
+												5098
+											],
+											[
+												5227,
+												5240
+											],
+											[
+												5683,
+												5698
+											],
+											[
+												5882,
+												5897
+											],
+											[
+												6271,
+												6274
+											],
+											[
+												6603,
+												6606
+											],
+											[
+												6942,
+												6950
+											],
+											[
+												7163,
+												7171
+											],
+											[
+												7583,
+												7591
+											],
+											[
+												7863,
+												7882
+											],
+											[
+												8098,
+												8117
+											],
+											[
+												8380,
+												8390
+											],
+											[
+												8667,
+												8677
+											],
+											[
+												8815,
+												8825
+											],
+											[
+												8999,
+												9009
+											],
+											[
+												9136,
+												9146
+											],
+											[
+												9264,
+												9274
+											],
+											[
+												9475,
+												9485
+											],
+											[
+												9692,
+												9702
+											],
+											[
+												9830,
+												9840
+											],
+											[
+												10067,
+												10077
+											],
+											[
+												10272,
+												10282
+											],
+											[
+												10493,
+												10503
+											],
+											[
+												10587,
+												10597
+											],
+											[
+												10850,
+												10860
+											],
+											[
+												10973,
+												10983
+											],
+											[
+												11136,
+												11146
+											],
+											[
+												11338,
+												11348
+											],
+											[
+												11454,
+												11464
+											],
+											[
+												11695,
+												11705
+											],
+											[
+												11867,
+												11877
+											],
+											[
+												12037,
+												12047
+											],
+											[
+												12185,
+												12195
+											],
+											[
+												12378,
+												12388
+											],
+											[
+												12413,
+												12423
+											],
+											[
+												12689,
+												12699
+											],
+											[
+												12743,
+												12753
+											],
+											[
+												12829,
+												12839
+											],
+											[
+												12983,
+												12993
+											],
+											[
+												13023,
+												13033
+											],
+											[
+												13133,
+												13143
+											],
+											[
+												13269,
+												13279
+											],
+											[
+												13308,
+												13318
+											],
+											[
+												13498,
+												13508
+											],
+											[
+												13692,
+												13702
+											],
+											[
+												13844,
+												13854
+											],
+											[
+												14035,
+												14045
+											],
+											[
+												14248,
+												14258
+											],
+											[
+												14390,
+												14400
+											],
+											[
+												14628,
+												14638
+											],
+											[
+												14661,
+												14671
+											],
+											[
+												14860,
+												14870
+											],
+											[
+												14887,
+												14897
+											],
+											[
+												14944,
+												14954
+											],
+											[
+												14971,
+												14981
+											],
+											[
+												15132,
+												15142
+											],
+											[
+												15245,
+												15255
+											],
+											[
+												15275,
+												15285
+											],
+											[
+												15435,
+												15445
+											],
+											[
+												15525,
+												15535
+											],
+											[
+												15555,
+												15565
+											],
+											[
+												15787,
+												15797
+											],
+											[
+												15949,
+												15959
+											],
+											[
+												16139,
+												16149
+											],
+											[
+												16176,
+												16186
+											],
+											[
+												16313,
+												16323
+											],
+											[
+												16354,
+												16364
+											],
+											[
+												16396,
+												16406
+											],
+											[
+												16539,
+												16549
+											],
+											[
+												16666,
+												16676
+											],
+											[
+												16721,
+												16731
+											],
+											[
+												16850,
+												16860
+											],
+											[
+												16867,
+												16877
+											],
+											[
+												16915,
+												16925
+											],
+											[
+												16968,
+												16978
+											],
+											[
+												17000,
+												17010
+											],
+											[
+												17230,
+												17240
+											],
+											[
+												17480,
+												17490
+											],
+											[
+												17530,
+												17540
+											],
+											[
+												17786,
+												17796
+											],
+											[
+												17840,
+												17850
+											],
+											[
+												17895,
+												17905
+											],
+											[
+												18120,
+												18130
+											],
+											[
+												18147,
+												18157
+											],
+											[
+												18391,
+												18401
+											],
+											[
+												18696,
+												18706
+											],
+											[
+												18814,
+												18824
+											],
+											[
+												18944,
+												18954
+											],
+											[
+												19069,
+												19079
+											],
+											[
+												19343,
+												19355
+											],
+											[
+												19738,
+												19757
+											],
+											[
+												19953,
+												19972
+											],
+											[
+												19977,
+												19996
+											],
+											[
+												20239,
+												20258
+											],
+											[
+												20467,
+												20486
+											],
+											[
+												20491,
+												20510
+											],
+											[
+												20811,
+												20818
+											],
+											[
+												21068,
+												21075
+											],
+											[
+												21279,
+												21286
+											],
+											[
+												21528,
+												21535
+											],
+											[
+												21841,
+												21848
+											],
+											[
+												22115,
+												22122
+											],
+											[
+												22364,
+												22371
+											],
+											[
+												22464,
+												22471
+											],
+											[
+												22518,
+												22525
+											],
+											[
+												22595,
+												22602
+											],
+											[
+												22810,
+												22817
+											],
+											[
+												23025,
+												23032
+											],
+											[
+												23049,
+												23056
+											],
+											[
+												23311,
+												23318
+											],
+											[
+												23539,
+												23546
+											],
+											[
+												23563,
+												23570
+											],
+											[
+												23950,
+												23957
+											],
+											[
+												23990,
+												23997
+											],
+											[
+												24337,
+												24344
+											],
+											[
+												24529,
+												24536
+											],
+											[
+												24698,
+												24705
+											],
+											[
+												24956,
+												24963
+											],
+											[
+												25089,
+												25096
+											],
+											[
+												25211,
+												25218
+											],
+											[
+												25381,
+												25388
+											],
+											[
+												25572,
+												25579
+											],
+											[
+												25615,
+												25622
+											],
+											[
+												25946,
+												25953
+											],
+											[
+												25991,
+												25998
+											],
+											[
+												26176,
+												26183
+											],
+											[
+												26443,
+												26450
+											],
+											[
+												26566,
+												26573
+											],
+											[
+												26757,
+												26764
+											],
+											[
+												26908,
+												26915
+											],
+											[
+												27120,
+												27127
+											],
+											[
+												27160,
+												27167
+											],
+											[
+												27389,
+												27396
+											],
+											[
+												27548,
+												27555
+											],
+											[
+												27644,
+												27651
+											],
+											[
+												27781,
+												27788
+											],
+											[
+												27836,
+												27843
+											],
+											[
+												27995,
+												28002
+											],
+											[
+												28123,
+												28130
+											],
+											[
+												28358,
+												28365
+											],
+											[
+												28587,
+												28594
+											],
+											[
+												28848,
+												28855
+											],
+											[
+												28998,
+												29005
+											],
+											[
+												29189,
+												29196
+											],
+											[
+												29313,
+												29320
+											],
+											[
+												29321,
+												29328
+											],
+											[
+												29369,
+												29376
+											],
+											[
+												29542,
+												29549
+											],
+											[
+												29741,
+												29748
+											],
+											[
+												29922,
+												29929
+											],
+											[
+												30094,
+												30101
+											],
+											[
+												30320,
+												30327
+											],
+											[
+												30483,
+												30490
+											],
+											[
+												30599,
+												30606
+											],
+											[
+												30698,
+												30705
+											],
+											[
+												30926,
+												30936
+											],
+											[
+												31114,
+												31124
+											],
+											[
+												31367,
+												31377
+											],
+											[
+												31553,
+												31563
+											],
+											[
+												31916,
+												31924
+											],
+											[
+												32323,
+												32341
+											],
+											[
+												32606,
+												32616
+											],
+											[
+												32893,
+												32903
+											],
+											[
+												33041,
+												33051
+											],
+											[
+												33225,
+												33235
+											],
+											[
+												33312,
+												33322
+											],
+											[
+												33452,
+												33462
+											],
+											[
+												33580,
+												33590
+											],
+											[
+												33798,
+												33808
+											],
+											[
+												34015,
+												34025
+											],
+											[
+												34153,
+												34163
+											],
+											[
+												34382,
+												34392
+											],
+											[
+												34605,
+												34615
+											],
+											[
+												34826,
+												34836
+											],
+											[
+												34920,
+												34930
+											],
+											[
+												35183,
+												35193
+											],
+											[
+												35306,
+												35316
+											],
+											[
+												35469,
+												35479
+											],
+											[
+												35671,
+												35681
+											],
+											[
+												35787,
+												35797
+											],
+											[
+												36028,
+												36038
+											],
+											[
+												36200,
+												36210
+											],
+											[
+												36370,
+												36380
+											],
+											[
+												36518,
+												36528
+											],
+											[
+												36711,
+												36721
+											],
+											[
+												36746,
+												36756
+											],
+											[
+												37022,
+												37032
+											],
+											[
+												37076,
+												37086
+											],
+											[
+												37162,
+												37172
+											],
+											[
+												37316,
+												37326
+											],
+											[
+												37356,
+												37366
+											],
+											[
+												37466,
+												37476
+											],
+											[
+												37602,
+												37612
+											],
+											[
+												37651,
+												37661
+											],
+											[
+												37851,
+												37861
+											],
+											[
+												38045,
+												38055
+											],
+											[
+												38197,
+												38207
+											],
+											[
+												38388,
+												38398
+											],
+											[
+												38601,
+												38611
+											],
+											[
+												38743,
+												38753
+											],
+											[
+												38981,
+												38991
+											],
+											[
+												39014,
+												39024
+											],
+											[
+												39213,
+												39223
+											],
+											[
+												39240,
+												39250
+											],
+											[
+												39297,
+												39307
+											],
+											[
+												39324,
+												39334
+											],
+											[
+												39485,
+												39495
+											],
+											[
+												39598,
+												39608
+											],
+											[
+												39628,
+												39638
+											],
+											[
+												39788,
+												39798
+											],
+											[
+												39878,
+												39888
+											],
+											[
+												39908,
+												39918
+											],
+											[
+												40140,
+												40150
+											],
+											[
+												40302,
+												40312
+											],
+											[
+												40492,
+												40502
+											],
+											[
+												40529,
+												40539
+											],
+											[
+												40666,
+												40676
+											],
+											[
+												40707,
+												40717
+											],
+											[
+												40749,
+												40759
+											],
+											[
+												40892,
+												40902
+											],
+											[
+												41019,
+												41029
+											],
+											[
+												41074,
+												41084
+											],
+											[
+												41203,
+												41213
+											],
+											[
+												41220,
+												41230
+											],
+											[
+												41268,
+												41278
+											],
+											[
+												41321,
+												41331
+											],
+											[
+												41353,
+												41363
+											],
+											[
+												41583,
+												41593
+											],
+											[
+												41833,
+												41843
+											],
+											[
+												41883,
+												41893
+											],
+											[
+												42139,
+												42149
+											],
+											[
+												42193,
+												42203
+											],
+											[
+												42248,
+												42258
+											],
+											[
+												42473,
+												42483
+											],
+											[
+												42500,
+												42510
+											],
+											[
+												42744,
+												42754
+											],
+											[
+												43049,
+												43059
+											],
+											[
+												43167,
+												43177
+											],
+											[
+												43297,
+												43307
+											],
+											[
+												43422,
+												43432
+											],
+											[
+												43645,
+												43654
+											],
+											[
+												43841,
+												43850
+											],
+											[
+												44112,
+												44121
+											],
+											[
+												44317,
+												44326
+											],
+											[
+												44391,
+												44400
+											],
+											[
+												44599,
+												44608
+											],
+											[
+												44653,
+												44662
+											],
+											[
+												44703,
+												44712
+											],
+											[
+												45186,
+												45195
+											],
+											[
+												45280,
+												45289
+											],
+											[
+												45637,
+												45646
+											],
+											[
+												45892,
+												45901
+											],
+											[
+												46064,
+												46073
+											],
+											[
+												46477,
+												46486
+											],
+											[
+												46930,
+												46939
+											],
+											[
+												46970,
+												46979
+											],
+											[
+												47190,
+												47199
+											],
+											[
+												47346,
+												47355
+											],
+											[
+												47513,
+												47522
+											],
+											[
+												47530,
+												47539
+											],
+											[
+												47728,
+												47737
+											],
+											[
+												47857,
+												47866
+											],
+											[
+												47875,
+												47884
+											],
+											[
+												48160,
+												48169
+											],
+											[
+												48392,
+												48401
+											],
+											[
+												48410,
+												48419
+											],
+											[
+												48473,
+												48482
+											],
+											[
+												48694,
+												48705
+											],
+											[
+												49032,
+												49043
+											],
+											[
+												49498,
+												49509
+											],
+											[
+												49785,
+												49792
+											],
+											[
+												50061,
+												50066
+											],
+											[
+												50275,
+												50279
+											],
+											[
+												50490,
+												50494
+											],
+											[
+												50695,
+												50699
+											],
+											[
+												50978,
+												50982
+											],
+											[
+												51005,
+												51009
+											],
+											[
+												51266,
+												51270
+											],
+											[
+												51575,
+												51579
+											],
+											[
+												51923,
+												51938
+											],
+											[
+												52188,
+												52203
+											],
+											[
+												52531,
+												52546
+											],
+											[
+												52789,
+												52804
+											],
+											[
+												53110,
+												53121
+											],
+											[
+												53226,
+												53237
+											],
+											[
+												53526,
+												53533
+											],
+											[
+												53552,
+												53559
+											],
+											[
+												53729,
+												53736
+											],
+											[
+												53952,
+												53959
+											],
+											[
+												54026,
+												54033
+											],
+											[
+												54211,
+												54218
+											],
+											[
+												54297,
+												54304
+											],
+											[
+												54334,
+												54341
+											],
+											[
+												54379,
+												54386
+											],
+											[
+												54691,
+												54698
+											],
+											[
+												54844,
+												54851
+											],
+											[
+												54889,
+												54896
+											],
+											[
+												55132,
+												55139
+											],
+											[
+												55314,
+												55321
+											],
+											[
+												55353,
+												55360
+											],
+											[
+												55500,
+												55507
+											],
+											[
+												55703,
+												55710
+											],
+											[
+												55858,
+												55865
+											],
+											[
+												56023,
+												56030
+											],
+											[
+												56054,
+												56061
+											],
+											[
+												56238,
+												56245
+											],
+											[
+												56475,
+												56482
+											],
+											[
+												56789,
+												56796
+											],
+											[
+												57086,
+												57093
+											],
+											[
+												57504,
+												57511
+											],
+											[
+												57774,
+												57781
+											],
+											[
+												57815,
+												57822
+											],
+											[
+												58148,
+												58155
+											],
+											[
+												58197,
+												58204
+											],
+											[
+												58531,
+												58538
+											],
+											[
+												58567,
+												58574
+											],
+											[
+												58601,
+												58608
+											],
+											[
+												58639,
+												58646
+											],
+											[
+												58675,
+												58682
+											],
+											[
+												58707,
+												58714
+											],
+											[
+												58961,
+												58968
+											],
+											[
+												59241,
+												59248
+											],
+											[
+												59511,
+												59518
+											],
+											[
+												59709,
+												59716
+											],
+											[
+												59934,
+												59941
+											],
+											[
+												60114,
+												60121
+											],
+											[
+												60160,
+												60167
+											],
+											[
+												60429,
+												60436
+											],
+											[
+												60458,
+												60465
+											],
+											[
+												60517,
+												60524
+											],
+											[
+												60546,
+												60553
+											],
+											[
+												60631,
+												60638
+											],
+											[
+												60926,
+												60933
+											],
+											[
+												60949,
+												60956
+											],
+											[
+												61313,
+												61320
+											],
+											[
+												61378,
+												61385
+											],
+											[
+												61408,
+												61415
+											],
+											[
+												61746,
+												61753
+											],
+											[
+												61816,
+												61823
+											],
+											[
+												61846,
+												61853
+											],
+											[
+												62171,
+												62178
+											],
+											[
+												62236,
+												62243
+											],
+											[
+												62266,
+												62273
+											],
+											[
+												62549,
+												62556
+											],
+											[
+												62578,
+												62585
+											],
+											[
+												62850,
+												62857
+											],
+											[
+												62964,
+												62971
+											],
+											[
+												62974,
+												62981
+											],
+											[
+												63147,
+												63154
+											],
+											[
+												63192,
+												63199
+											],
+											[
+												63430,
+												63437
+											],
+											[
+												63681,
+												63688
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										62852,
+										62852
+									]
+								],
+								"settings":
+								{
+									"default_dir": "E:\\work\\football\\FBServer",
+									"detect_indentation": false,
+									"is_init_dirty_state": false,
+									"line_numbers": false,
+									"output_tag": 31,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 40678.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/E/work/football/FBServer/service/errorcode.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15406,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/E/work/football/FBServer/logic/match/match_ctrl.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 457,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										266,
+										284
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 21,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/E/work/football/FBServer/service/chat_svc.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7917,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4495,
+										4495
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3454.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/E/work/football/FBServer/logic/common/client_helper.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10598,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4399,
+										4399
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2090.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/E/work/football/FBServer/service/service_base.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2147,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1127,
+										1127
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 264.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/E/work/football/FBServer/logic/game/game_impl.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1140,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										622,
+										632
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Lua/Lua.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 66.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "/E/work/football/FBServer/service/agent.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5852,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2563,
+										2563
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2046.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "/E/work/football/FBServer/logic/relation/relation_impl.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8079,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										339,
+										365
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 18,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "/E/work/football/FBServer/logic/auth/auth_ctrl.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11613,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5693,
+										5702
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3530.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 20,
+							"file": "/E/work/football/FBServer/service/agent_mgr.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5037,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3939,
+										3901
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2442.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 21,
+							"file": "/E/work/football/FBServer/config_public",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 887,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										834,
+										834
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 22,
+							"file": "/E/work/football/FBServer/pb/auth.sproto",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 720,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										1
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 23,
+							"file": "/E/work/football/FBServer/logic/common/context.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3685,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1728,
+										1735
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 748.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 20,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.GoSublime-main-output":
+			{
+				"height": 130.0
+			},
+			"output.exec":
+			{
+				"height": 308.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,490,263,232,901",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wat",
+						"service\\watchdog.lua"
+					],
+					[
+						"code",
+						"service\\code_test.lua"
+					],
+					[
+						"authctrl",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"clienth",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"configpubli",
+						"config_public"
+					],
+					[
+						"agentm",
+						"service\\agent_mgr.lua"
+					],
+					[
+						"agent.lua",
+						"service\\agent.lua"
+					],
+					[
+						"agentmgr",
+						"service\\agent_mgr.lua"
+					],
+					[
+						"rolecals",
+						"logic\\role\\role_class.lua"
+					],
+					[
+						"agent.l",
+						"service\\agent.lua"
+					],
+					[
+						"agetmgr",
+						"service\\agent_mgr.lua"
+					],
+					[
+						"wa",
+						"service\\watchdog.lua"
+					],
+					[
+						"cli",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"agentmr",
+						"service\\agent_mgr.lua"
+					],
+					[
+						"auth.lua",
+						"service\\auth.lua"
+					],
+					[
+						"gameim",
+						"logic\\game\\game_impl.lua"
+					],
+					[
+						"authc",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"auth",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"authcl",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"agent",
+						"service\\agent.lua"
+					],
+					[
+						"agent.",
+						"service\\agent.lua"
+					],
+					[
+						"gameimp",
+						"logic\\game\\game_impl.lua"
+					],
+					[
+						"clienthel",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"autctr",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"wato",
+						"service\\watchdog.lua"
+					],
+					[
+						"authlo",
+						"service\\auth_logic_svc.lua"
+					],
+					[
+						"authim",
+						"logic\\auth\\auth_impl.lua"
+					],
+					[
+						"waot",
+						"service\\watchdog.lua"
+					],
+					[
+						"authct",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"authimpl",
+						"logic\\auth\\auth_impl.lua"
+					],
+					[
+						"authlua",
+						"service\\auth.lua"
+					],
+					[
+						"error",
+						"service\\errorcode.lua"
+					],
+					[
+						"agnet",
+						"service\\agent.lua"
+					],
+					[
+						"clien",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"client",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"gameimpl",
+						"logic\\game\\game_impl.lua"
+					],
+					[
+						"agent.lu",
+						"service\\agent.lua"
+					],
+					[
+						"agemt",
+						"service\\agent_mgr.lua"
+					],
+					[
+						"roleclas",
+						"logic\\role\\role_class.lua"
+					],
+					[
+						"aut",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"chatconst",
+						"logic\\chat\\chat_const.lua"
+					],
+					[
+						"chats",
+						"service\\chat_svc.lua"
+					],
+					[
+						"chatsvc",
+						"service\\chat_svc.lua"
+					],
+					[
+						"souclas",
+						"logic\\scout\\scout_class.lua"
+					],
+					[
+						"watdo",
+						"service\\watchdog.lua"
+					],
+					[
+						"er",
+						"service\\errorcode.lua"
+					],
+					[
+						"serbase",
+						"service\\service_base.lua"
+					],
+					[
+						"comm",
+						"service\\command_base.lua"
+					],
+					[
+						"ser",
+						"service-src\\service_snlua.c"
+					],
+					[
+						"relimpl",
+						"logic\\relation\\relation_impl.lua"
+					],
+					[
+						"autimpl",
+						"logic\\auth\\auth_impl.lua"
+					],
+					[
+						"protmap",
+						"service\\proto_map.lua"
+					],
+					[
+						"autim",
+						"logic\\auth\\auth_impl.lua"
+					],
+					[
+						"autlog",
+						"service\\auth_logic_svc.lua"
+					],
+					[
+						"authprot",
+						"pb\\auth.sproto"
+					],
+					[
+						"watc",
+						"service\\watchdog.lua"
+					],
+					[
+						"protmpa",
+						"service\\proto_map.lua"
+					],
+					[
+						"context.lua",
+						"logic\\common\\context.lua"
+					],
+					[
+						"confpgu",
+						"config_public"
+					],
+					[
+						"scoutclas",
+						"logic\\scout\\scout_class.lua"
+					],
+					[
+						"codet",
+						"service\\code_test.lua"
+					],
+					[
+						"sprot",
+						"lualib\\sproto.lua"
+					],
+					[
+						"scclas",
+						"logic\\scout\\scout_class.lua"
+					],
+					[
+						"scout",
+						"logic\\scout\\scout_impl.lua"
+					],
+					[
+						"scouclas",
+						"logic\\scout\\scout_class.lua"
+					],
+					[
+						"scoutimpl",
+						"logic\\scout\\scout_impl.lua"
+					],
+					[
+						"confpubli",
+						"config_public"
+					],
+					[
+						"clientp",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"autuctrl",
+						"logic\\auth\\auth_ctrl.lua"
+					],
+					[
+						"clienthe",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"gamei",
+						"logic\\game\\game_impl.lua"
+					],
+					[
+						"context",
+						"logic\\common\\context.lua"
+					],
+					[
+						"commbase",
+						"service\\command_base.lua"
+					],
+					[
+						"clienthr",
+						"logic\\common\\client_helper.lua"
+					],
+					[
+						"cont",
+						"logic\\common\\context.lua"
+					],
+					[
+						"skyent",
+						"lualib\\skynet.lua"
+					],
+					[
+						"socket",
+						"lualib\\skynet\\socket.lua"
+					],
+					[
+						"skyentsokcet",
+						"skynet-src\\skynet_socket.c"
+					],
+					[
+						"skynetsock",
+						"skynet-src\\skynet_socket.c"
+					],
+					[
+						"protm",
+						"service\\proto_map.lua"
+					],
+					[
+						"authl",
+						"service\\auth_logic_svc.lua"
+					],
+					[
+						"skynet.lua",
+						"lualib\\skynet.lua"
+					],
+					[
+						"timeh",
+						"logic\\common\\time_help.lua"
+					],
+					[
+						"timehe",
+						"logic\\common\\time_help.lua"
+					],
+					[
+						"sprotloa",
+						"lualib\\sprotoloader.lua"
+					],
+					[
+						"skynetqu",
+						"lualib\\skynet\\queue.lua"
+					],
+					[
+						"number_mgr_class",
+						"logic\\number_manager\\number_mgr_class.lua"
+					],
+					[
+						"queue",
+						"lualib\\skynet\\queue.lua"
+					],
+					[
+						"matchclas",
+						"logic\\match_hall\\match_hall_class.lua"
+					],
+					[
+						"fucntion",
+						"lualib\\functions.lua"
+					],
+					[
+						"codetest",
+						"service\\code_test.lua"
+					],
+					[
+						"func",
+						"lualib\\functions.lua"
+					],
+					[
+						"reldb",
+						"logic\\relation\\relation_db.lua"
+					],
+					[
+						"bagdb",
+						"logic\\bag\\bag_db.lua"
+					],
+					[
+						"fun",
+						"lualib\\functions.lua"
+					],
+					[
+						"relation_db",
+						"logic\\relation\\relation_db.lua"
+					],
+					[
+						"taskdb",
+						"logic\\task\\task_db.lua"
+					],
+					[
+						"roleshdb",
+						"logic\\role_shop\\role_shop_db.lua"
+					],
+					[
+						"confrn",
+						"config_frontend"
+					],
+					[
+						"serlog",
+						"service-src\\service_logger.c"
+					],
+					[
+						"globallog",
+						"service\\globallog.lua"
+					],
+					[
+						"logl",
+						"service\\log_launcher.lua"
+					],
+					[
+						"global",
+						"service\\globallog.lua"
+					],
+					[
+						"watchdog",
+						"service\\watchdog.lua"
+					],
+					[
+						"confif",
+						"config_frontend"
+					],
+					[
+						"conf",
+						"config_log"
+					],
+					[
+						"service_logger",
+						"service-src\\service_logger.c"
+					],
+					[
+						"configlog",
+						"config_log"
+					],
+					[
+						"frone",
+						"service\\frontend.lua"
+					],
+					[
+						"selog",
+						"service-src\\service_logger.c"
+					],
+					[
+						"glo",
+						"service\\globallog.lua"
+					],
+					[
+						"logg",
+						"lualib\\logger.lua"
+					],
+					[
+						"configfr",
+						"config_frontend"
+					],
+					[
+						"configag",
+						"config_agent"
+					],
+					[
+						"con",
+						"config_public"
+					],
+					[
+						"skyeerr",
+						"skynet-src\\skynet_error.c"
+					],
+					[
+						"logger.l",
+						"lualib\\logger.lua"
+					],
+					[
+						"skynet.c",
+						"lualib-src\\lua-skynet.c"
+					],
+					[
+						"skynetlo",
+						"skynet-src\\skynet_log.c"
+					],
+					[
+						"role_shop_db",
+						"logic\\role_shop\\role_shop_db.lua"
+					],
+					[
+						"luabs",
+						"lualib-src\\lua-bson.c"
+					],
+					[
+						"aud",
+						"auto_deploy.sh"
+					],
+					[
+						"autde",
+						"auto_deploy.sh"
+					],
+					[
+						"runs",
+						"run.sh"
+					],
+					[
+						"skynetaut",
+						"skynet_autogen.sh"
+					],
+					[
+						"auto",
+						"skynet_autogen.sh"
+					],
+					[
+						"run.sh",
+						"run.sh"
+					],
+					[
+						"configpu",
+						"config_public"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"E:\\work\\cswzServer\\cswzServer.sublime-workspace"
+					],
+					[
+						"cs cli",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"tit s",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi se",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi s",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi ser",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tit cli",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"tit se",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"cs tit",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"tit",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi cli",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"titc",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"cli",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"cscli",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"tit ser",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tits",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tit ",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tiit ser",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"cswz ser",
+						"E:\\work\\cswzServer\\cswzServer.sublime-project"
+					],
+					[
+						"cs ",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"cs sz",
+						"E:\\work\\cswzServer\\cswzServer.sublime-project"
+					],
+					[
+						"titi c",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"cs se",
+						"E:\\work\\cswzServer\\cswzServer.sublime-project"
+					],
+					[
+						"ti",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titis",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"titi ",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"tiit",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"flo",
+						"E:\\work\\flowerServer\\flowerServer.sublime-project"
+					],
+					[
+						"cs ti",
+						"E:\\work\\titanClient\\titanClient.sublime-workspace"
+					],
+					[
+						"tiit s",
+						"E:\\work\\titanServer\\titanServer.sublime-project"
+					],
+					[
+						"csw",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"cs",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"csw cli",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"css",
+						"E:\\work\\cswzClient\\cswzClient.sublime-project"
+					],
+					[
+						"cswz",
+						"E:\\work\\cswzServer\\cswzServer.sublime-project"
+					]
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 490.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"read_buf"
+					]
+				],
+				"width": 604.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 298.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 552,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/Sublime Text 3/FBClient.sublime-workspace",
+			"/D/Sublime Text 3/FBServer.sublime-workspace",
+			"/E/work/football/FBServer/stop.sublime-workspace",
+			"/E/work/cswzServer/cswzServer.sublime-workspace",
+			"/E/work/cswzClient/cswzClient.sublime-workspace",
+			"/E/work/titanClient/titanClient.sublime-workspace",
+			"/E/work/titanServer/titanServer.sublime-workspace",
+			"/E/work/flowerServer/flowerServer.sublime-workspace",
+			"/E/work/cswzServer/cswz.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,23 @@
+ [
+    { "keys": ["ctrl+shift+v"], "command": "paste_from_history" },  // 剪切板历史
+    { "keys": ["ctrl+-"], "command": "jump_back" },                 // 回到上一次光标所在位置
+    { "keys": ["ctrl++"], "command": "jump_forward" },              // 回到下一次光标所在位置
+    { "keys": ["ctrl+="], "command": "jump_forward" },              // 回到下一次光标所在位置
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },   // 快速切换项目
+
+ // 关闭ctrl+鼠标滚轮 缩放字体大小 防止误操作
+    { "keys": ["ctrl+equals"], "command": "" },
+    { "keys": ["ctrl+keypad_plus"], "command": "" },
+    { "keys": ["ctrl+keypad_minus"], "command": "" },
+    { "keys": ["ctrl+shift+equals"], "command": "" },
+    { "keys": ["ctrl+shift+keypad_plus"], "command": "" },
+
+// 等号对齐
+    { "keys": ["ctrl+alt+f"], "command": "alignment" },
+
+// 打开文件中搜索选项
+    { "keys": ["ctrl+shift+f"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+
+// 处理冲突
+    { "keys": ["ctrl+k", "ctrl+d"], "command": "find_under_expand_skip" },
+ ]

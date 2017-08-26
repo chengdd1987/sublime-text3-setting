@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Diffy",
+		"FindSelected",
+		"G-code Syntax Highlighting",
+		"Lua Dev",
+		"LuaAutocomplete",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeGDB",
+		"Theme - Hero"
+	]
+}
