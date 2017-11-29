@@ -6,21 +6,21 @@ clone下来的目录 粘贴/覆盖到 C:\Users\\(你的用户名)\AppData\Roamin
 
 插件如下
 
-ConvertToUTF8 -- sublime 支持中文的插件
+~~ConvertToUTF8 -- sublime 支持中文的插件(移除)~~
 
 python - 语法解析
 
 lua - 语法解析
 
-html - 语法解析
+~~html - 语法解析(移除)~~
 
 find selected - 支持f3查找 类vs查找操作
 
-side bar - 侧边栏扩展支持
+~~side bar - 侧边栏扩展支持(移除)~~
 
-图片浏览插件 - 支持在sublime中直接浏览图片
+~~图片浏览插件 - 支持在sublime中直接浏览图片(移除)~~
 
-一套看起来比较合理的配色方案
+~~一套看起来比较合理的配色方案(移除)~~
 
 按键设置如下
 
