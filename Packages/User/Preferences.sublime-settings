@@ -1,38 +1,10 @@
 {
-	"binary_file_patterns":
-	[
-		"*.dds",
-		"*.eot",
-		"*.gif",
-		"*.ico",
-		"*.jar",
-		"*.jpeg",
-		"*.jpg",
-		"*.pdf",
-		"*.png",
-		"*.swf",
-		"*.tga",
-		"*.ttf",
-		"*.zip",
-		"/E/work/cswz/cswzUserCenter/patchApi.php"
-	],
-	"color_scheme": "Packages/Color Scheme - Default/Espresso Libre.tmTheme",
-	"font_face": "Consolas",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Courier New",
 	"font_size": 11,
-	"highlight_line": true,
 	"ignored_packages":
 	[
-		"0_package_control_loader",
 		"Vintage"
 	],
-	"index_exclude_patterns":
-	[
-		"*.log",
-		"jsonpack.lua",
-		"E:\\Work\\newServer\\lualib\\http*",
-		"E:\\Work\\newServer\\.tags"
-	],
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true
+	"theme": "Default.sublime-theme"
 }

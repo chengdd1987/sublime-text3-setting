@@ -1,0 +1,1 @@
+{"platforms": ["*"], "url": "https://github.com/codexns/package_events/issues", "version": "1.0.1", "description": "Allows Sublime Text packages to emit and listen for events", "sublime_text": "*"}

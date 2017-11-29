@@ -5,18 +5,12 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
-		"BracketHighlighter",
-		"ConvertToUTF8",
-		"Diffy",
 		"FindSelected",
-		"G-code Syntax Highlighting",
-		"Lua Dev",
+		"Golang Build",
 		"LuaAutocomplete",
+		"Markdown Extended",
+		"Markdown Preview",
 		"Package Control",
-		"PackageResourceViewer",
-		"SideBarEnhancements",
-		"SublimeGDB",
-		"Theme - Hero"
+		"Python 3"
 	]
 }
